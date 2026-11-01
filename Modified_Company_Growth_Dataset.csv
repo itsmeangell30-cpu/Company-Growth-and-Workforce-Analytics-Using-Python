@@ -1,0 +1,503 @@
+Rank,Profile,Company_name,url,state,Revenue_in_millions,Revenue_Growth_Percentage,Industry,Current_Workers,Previous_Workers,Founded,Years_On_List,Metro,city,Employee_Change,Employee_Growth_Percentage,Company_Size,Company_Age,Revenue_Per_Employee,Age_Group
+1,https://www.inc.com/profile/freestar,Freestar,http://freestar.com,AZ,36.9,36680.39,Advertising & Marketing,40,5,2015,1,Phoenix,Phoenix,35,700,Small,0,922500,0–5 Years
+2,https://www.inc.com/profile/freightwise,FreightWise,http://freightwisellc.com,TN,33.6,30547.93,Logistics & Transportation,39,8,2015,1,Nashville,Brentwood,31,387.5,Small,0,861538.4615,0–5 Years
+3,https://www.inc.com/profile/ceces-veggie,Cece's Veggie Co.,http://cecesveggieco.com,TX,24.9,23880.49,Food & Beverage,190,10,2015,1,Austin,Austin,180,1800,Medium,0,131052.6316,0–5 Years
+4,https://www.inc.com/profile/ladyboss,LadyBoss,http://ladyboss.com,NM,32.4,21849.89,Consumer Products & Services,57,2,2014,1,Albuquerque,Albuquerque,55,2750,Medium,1,568421.0526,0–5 Years
+5,https://www.inc.com/profile/perpay,Perpay,http://perpay.com,PA,22.5,18166.41,Retail,25,6,2014,1,Philadelphia,Philadelphia,19,316.67,Small,1,900000,0–5 Years
+6,https://www.inc.com/profile/cano-health,Cano Health,http://canohealth.com,FL,271.8,14183.41,Health,742,18,2009,1,Miami,Miami,724,4022.22,Large,6,366307.2776,6–10 Years
+7,https://www.inc.com/profile/bear-mattress,Bear Mattress,http://bearmattress.com,NJ,20.5,13480.73,Consumer Products & Services,12,1,2014,1,New York City,Hoboken,11,1100,Small,1,1708333.333,0–5 Years
+8,https://www.inc.com/profile/connected-solutions-group,Connected Solutions Group,http://csgstore.net,VA,23.3,12700.66,Telecommunications,72,1,2015,1,"Richmond, VA",Mechanicsville,71,7100,Medium,0,323611.1111,0–5 Years
+9,https://www.inc.com/profile/providence-healthcare-management,Providence Healthcare Management,http://providencehcm.com,OH,225.9,12564.54,Health,60,10,2008,1,Cleveland,Cleveland,50,500,Medium,7,3765000,6–10 Years
+10,https://www.inc.com/profile/nom,NOM,http://thisisnom.co,CA,21.4,11996.3,Advertising & Marketing,37,5,2014,1,Los Angeles,Los Angeles,32,640,Small,1,578378.3784,0–5 Years
+11,https://www.inc.com/profile/nuleaf-naturals,NuLeaf Naturals,nuleafnaturals.com,CO,13.9,11949.18,Consumer Products & Services,40,2,2014,1,Denver,Denver,38,1900,Small,1,347500,0–5 Years
+12,https://www.inc.com/profile/urgently,Urgently,geturgently.com,VA,30.3,11632.88,Logistics & Transportation,226,18,2013,1,"Washington, DC",VIenna,208,1155.56,Medium,2,134070.7965,0–5 Years
+13,https://www.inc.com/profile/nutpods,nutpods,http://nutpods.com,WA,19.1,11622.53,Food & Beverage,23,3,2013,1,Seattle,Bellevue,20,666.67,Small,2,830434.7826,0–5 Years
+14,https://www.inc.com/profile/yieldstreet,YieldStreet,http://yieldstreet.com,NY,19.1,10561.71,Financial Services,66,10,2015,1,New York City,New York,56,560,Medium,0,289393.9394,0–5 Years
+15,https://www.inc.com/profile/mutesix,MuteSix,http://mutesix.com,CA,17.3,10175.76,Advertising & Marketing,109,8,2014,3,Los Angeles,Los Angeles,101,1262.5,Medium,1,158715.5963,0–5 Years
+16,https://www.inc.com/profile/anchor-worldwide,Anchor Worldwide,anchorww.com,NY,10.7,9753.2,Advertising & Marketing,110,3,2015,1,New York City,New York,107,3566.67,Medium,0,97272.72727,0–5 Years
+17,https://www.inc.com/profile/lendingpoint,LendingPoint,lendingpoint.com,GA,105.8,9265.24,Financial Services,190,32,2014,1,Atlanta,Kennesaw,158,493.75,Medium,1,556842.1053,0–5 Years
+18,https://www.inc.com/profile/with-clarity,With Clarity,http://withclarity.com,NY,19,9179.33,Consumer Products & Services,14,2,2013,1,New York City,New York,12,600,Small,2,1357142.857,0–5 Years
+19,https://www.inc.com/profile/sonendo,Sonendo,sonendo.com,CA,24.4,8656.95,Health,191,66,2006,1,Los Angeles,Laguna Hills,125,189.39,Medium,9,127748.6911,6–10 Years
+20,https://www.inc.com/profile/kindred-bravely,Kindred Bravely,http://kindredbravely.com,CA,9.6,8543.98,Consumer Products & Services,35,2,2015,1,San Diego,Oceanside,33,1650,Small,0,274285.7143,0–5 Years
+21,https://www.inc.com/profile/tailor-made-compounding,Tailor Made Compounding,http://tailormadecompounding.com,KY,10.2,8327.1,Health,45,1,2015,1,Nicholasville,Nicholasville,44,4400,Small,0,226666.6667,0–5 Years
+22,https://www.inc.com/profile/sd3it,SD3IT,http://sd3it.com,FL,11.9,8282.87,Computer Hardware,12,2,2014,1,The Villages,The Villages,10,500,Small,1,991666.6667,0–5 Years
+23,https://www.inc.com/profile/convertkit,ConvertKit,convertkit.com,ID,13.8,7965.97,Software,37,10,2013,2,"Boise City-Nampa, ID",Boise,27,270,Small,2,372972.973,0–5 Years
+24,https://www.inc.com/profile/printify,Printify,http://printify.com,CA,10.5,7926.42,Software,70,5,2015,1,San Francisco,San Francisco,65,1300,Medium,0,150000,0–5 Years
+25,https://www.inc.com/profile/awardco,Awardco,http://award.co,UT,8.9,7478.15,Software,42,2,2015,1,"Provo-Orem, UT",Orem,40,2000,Small,0,211904.7619,0–5 Years
+26,https://www.inc.com/profile/pegasus-optimization-managers,Pegasus Optimization Managers,pegasus15.com,TX,128.2,7426.81,Energy,191,14,2015,1,College Station,College Station,177,1264.29,Medium,0,671204.1885,0–5 Years
+27,https://www.inc.com/profile/fitt-scientific,FITT Scientific,fittscientific.com,VA,15.8,7329.38,Government Services,191,7,2013,1,"Richmond, VA",Colonial Heights,184,2628.57,Medium,2,82722.51309,0–5 Years
+28,https://www.inc.com/profile/amherst-madison,Amherst Madison,amherstmadisonlegacy.com,ID,7.8,7301.34,Real Estate,8,1,2014,2,"Boise City-Nampa, ID",Boise,7,700,Small,1,975000,0–5 Years
+29,https://www.inc.com/profile/lumenad,LumenAd,lumenad.com,MT,11.8,7045.36,Software,60,3,2014,1,Missoula,Missoula,57,1900,Medium,1,196666.6667,0–5 Years
+30,https://www.inc.com/profile/bendcare,Bendcare,bendcare.com,FL,156,6900.25,Health,37,6,2015,1,Miami,Boca Raton,31,516.67,Small,0,4216216.216,0–5 Years
+31,https://www.inc.com/profile/the-welfont-companies,The Welfont Companies,welfont.com,FL,20.4,6870.99,Real Estate,51,35,2014,2,Tampa,Tampa,16,45.71,Medium,1,400000,0–5 Years
+32,https://www.inc.com/profile/Skinny-Dipped,Skinny Dipped,http://skinnydipped.com,WA,10.2,6641.68,Consumer Products & Services,21,4,2013,1,Seattle,Seattle,17,425,Small,2,485714.2857,0–5 Years
+33,https://www.inc.com/profile/rdi-technologies,RDI Technologies,rditechnologies.com,TN,7.2,6492.79,Manufacturing,21,3,2013,1,Knoxville,Knoxville,18,600,Small,2,342857.1429,0–5 Years
+34,https://www.inc.com/profile/limited-run-games,Limited Run Games,limitedrungames.com,NC,20.8,6388.37,Media,21,6,2010,1,"Raleigh, NC",Apex,15,250,Small,5,990476.1905,0–5 Years
+35,https://www.inc.com/profile/swanleap,SwanLeap,swanleap.com,WI,162.6,6382.94,Logistics & Transportation,38,13,2013,3,"Madison, WI",Madison,25,192.31,Small,2,4278947.368,0–5 Years
+36,https://www.inc.com/profile/vesta-modular,Vesta Modular,http://vestamodular.com,MI,48.9,6337.3,Construction,52,2,2014,1,Detroit,Southfield,50,2500,Medium,1,940384.6154,0–5 Years
+37,https://www.inc.com/profile/hc-animal-health,H&C Animal Health,hc-animal-health.com,CO,24,6287.46,Consumer Products & Services,11,5,2013,1,Denver,Parker,6,120,Small,2,2181818.182,0–5 Years
+38,https://www.inc.com/profile/homesnap,Homesnap,homesnap.com,MD,17.5,6176.69,Real Estate,85,25,2012,2,"Washington, DC",Bethesda,60,240,Medium,3,205882.3529,0–5 Years
+39,https://www.inc.com/profile/paradigm-construction,Paradigm Construction,paradigmconstruction-tx.com,TX,45.2,6145.46,Construction,27,7,2013,2,Houston,The Woodlands,20,285.71,Small,2,1674074.074,0–5 Years
+40,https://www.inc.com/profile/allata,Allata,allata.com,TX,15.2,6134.35,IT System Development,71,1,2014,1,Dallas,Dallas,70,7000,Medium,1,214084.507,0–5 Years
+41,https://www.inc.com/profile/fanchest,Fanchest,http://fanchest.com,NY,8.3,6055.94,Retail,13,2,2014,1,New York City,New York,11,550,Small,1,638461.5385,0–5 Years
+42,https://www.inc.com/profile/fund-that-flip,Fund That Flip,http://fundthatflip.com,NY,6.4,6017.89,Real Estate,41,5,2014,1,New York City,New York,36,720,Small,1,156097.561,0–5 Years
+43,https://www.inc.com/profile/villaway,Villaway,http://villaway.com,CA,7,5935.68,Travel & Hospitality,15,1,2014,2,Los Angeles,Los Angeles,14,1400,Small,1,466666.6667,0–5 Years
+44,https://www.inc.com/profile/IQM,IQM,http://iqm.com,NY,8.8,5852.21,Advertising & Marketing,40,12,2014,1,New York City,New York,28,233.33,Small,1,220000,0–5 Years
+45,https://www.inc.com/profile/home-quality-remodeling,Home Quality Remodeling,homequalityremodeling.com,CA,6.2,5835.39,Construction,10,2,2004,1,San Francisco,Concord,8,400,Small,11,620000,Above 10 Years
+46,https://www.inc.com/profile/beeswax,Beeswax,http://beeswax.com,NY,16.9,5768.18,Software,56,7,2014,1,New York City,New York,49,700,Medium,1,301785.7143,0–5 Years
+47,https://www.inc.com/profile/netizen,Netizen,http://netizencorp.com,PA,6.3,5638.39,Security,46,5,2013,1,"Allentown-Bethlehem-Easton, PA-NJ",Allentown,41,820,Small,2,136956.5217,0–5 Years
+48,https://www.inc.com/profile/phdata,phData,phdata.io,MN,9.8,5638.03,IT Management,86,3,2014,1,Minneapolis,Minneapolis,83,2766.67,Medium,1,113953.4884,0–5 Years
+49,https://www.inc.com/profile/mdstaffers,MDstaffers,http://mdstaffers.com,CA,7.1,5634.31,Health,22,6,2010,1,Rancho Cordova,Rancho Cordova,16,266.67,Small,5,322727.2727,0–5 Years
+50,https://www.inc.com/profile/talex,TalEx,teamtalex.com,MD,48.5,5484.37,Human Resources,500,70,2012,3,"Washington, DC",Clarksburg,430,614.29,Large,3,97000,0–5 Years
+51,https://www.inc.com/profile/nationwide-mortgage-bankers,Nationwide Mortgage Bankers,nmbhome.com,NY,25,5449.64,Financial Services,400,4,2011,1,New York City,Melville,396,9900,Large,4,62500,0–5 Years
+52,https://www.inc.com/profile/podium,Podium,podium.com,UT,42.5,5416.88,Software,430,17,2014,2,"Provo-Orem, UT",Lehi,413,2429.41,Large,1,98837.2093,0–5 Years
+53,https://www.inc.com/profile/sia-solutions,SIA Solutions,http://siasolutions.com,TX,23.9,5059.57,Environmental Services,60,7,2012,3,Houston,Houston,53,757.14,Medium,3,398333.3333,0–5 Years
+54,https://www.inc.com/profile/qeo-group,QEO Group,qeo.com,TX,58.8,4978.27,Insurance,87,20,2014,2,Dallas,Irving,67,335,Medium,1,675862.069,0–5 Years
+55,https://www.inc.com/profile/dropified,Dropified,dropified.com,AL,5.1,4971.45,Business Products & Services,30,2,2015,1,"Birmingham, AL",Birmingham,28,1400,Small,0,170000,0–5 Years
+56,https://www.inc.com/profile/sparx-hockey,Sparx Hockey,sparxhockey.com,MA,8,4916.22,Consumer Products & Services,25,8,2014,1,Boston,Acton,17,212.5,Small,1,320000,0–5 Years
+57,https://www.inc.com/profile/truechoicepack,TrueChoicePack,http://truechoicepack.com,OH,7.8,4908.4,Consumer Products & Services,7,4,2013,1,Cincinnati,Mason,3,75,Small,2,1114285.714,0–5 Years
+58,https://www.inc.com/profile/ashh-dba-ooze-wholesale,Ooze Wholesale,http://oozewholesale.com,MI,25.9,4899.03,Consumer Products & Services,30,6,2015,1,Detroit,Oak Park,24,400,Small,0,863333.3333,0–5 Years
+59,https://www.inc.com/profile/progyny,Progyny,http://progyny.com,NY,107.6,4838.02,Health,116,70,2008,2,New York City,New York,46,65.71,Medium,7,927586.2069,6–10 Years
+60,https://www.inc.com/profile/pax8,Pax8,pax8.com,CO,42.4,4820.27,Software,254,25,2012,2,Denver,Greenwood Village,229,916,Large,3,166929.1339,0–5 Years
+61,https://www.inc.com/profile/terminus,Terminus,http://terminus.com,GA,21.5,4730.05,Software,162,21,2014,1,Atlanta,Atlanta,141,671.43,Medium,1,132716.0494,0–5 Years
+62,https://www.inc.com/profile/chomps,Chomps,chomps.com,FL,21,4469.21,Food & Beverage,8,1,2012,2,Naples,Naples,7,700,Small,3,2625000,0–5 Years
+63,https://www.inc.com/profile/rad-power-bikes,Rad Power Bikes,radpowerbikes.com,WA,44.6,4442.25,Manufacturing,100,3,2007,1,Seattle,Seattle,97,3233.33,Medium,8,446000,6–10 Years
+64,https://www.inc.com/profile/tradepending,TradePending,tradepending.com,NC,5.8,4430.14,Software,28,3,2014,1,Chapel Hill,Chapel Hill,25,833.33,Small,1,207142.8571,0–5 Years
+65,https://www.inc.com/profile/west-creek-financial,West Creek Financial,http://westcreekfin.com,VA,89.7,4405.23,Financial Services,158,4,2014,1,"Richmond, VA",Glen Allen,154,3850,Medium,1,567721.519,0–5 Years
+66,https://www.inc.com/profile/citylift-parking,CityLift Parking,cityliftparking.com,CA,10.7,4401.87,Construction,40,5,2015,1,San Francisco,Oakland,35,700,Small,0,267500,0–5 Years
+67,https://www.inc.com/profile/associated-veterans,Associated Veterans,associatedveterans.com,VA,12.8,4345.78,Government Services,64,1,2007,2,"Washington, DC",Arlington,63,6300,Medium,8,200000,6–10 Years
+68,https://www.inc.com/profile/fetch-rewards,Fetch Rewards,fetchrewards.com,WI,9,4322.56,Software,63,31,2013,1,"Madison, WI",Madison,32,103.23,Medium,2,142857.1429,0–5 Years
+69,https://www.inc.com/profile/10x-genomics,10X Genomics,10xgenomics.com,CA,146.3,4308.74,Health,380,110,2012,1,San Francisco,Pleasanton,270,245.45,Large,3,385000,0–5 Years
+70,https://www.inc.com/profile/4th-heart,4th & Heart,http://fourthandheart.com,CA,14.3,4283.28,Food & Beverage,7,5,2014,1,Los Angeles,Venice Beach,2,40,Small,1,2042857.143,0–5 Years
+71,https://www.inc.com/profile/greenprint,GreenPrint,http://greenprintcorp.com,GA,6.2,4281.4,Energy,13,7,2014,1,Atlanta,Atlanta,6,85.71,Small,1,476923.0769,0–5 Years
+72,https://www.inc.com/profile/sky-marketing-corporation,Sky Marketing Corporation,smcdistribution.com,TX,4.7,4279.77,Consumer Products & Services,30,3,2015,1,Austin,Austin,27,900,Small,0,156666.6667,0–5 Years
+73,https://www.inc.com/profile/pendo,Pendo,pendo.io,NC,20.9,4266.82,Software,258,28,2013,1,"Raleigh, NC",Raleigh,230,821.43,Large,2,81007.75194,0–5 Years
+74,https://www.inc.com/profile/core-software-technologies,Core Software Technologies,coresofttech.com,NJ,4.6,4246.75,Software,39,1,2011,3,New York City,Plainsboro,38,3800,Small,4,117948.7179,0–5 Years
+75,https://www.inc.com/profile/ecosystems,EcoSystems,ecosystems.com,FL,6.7,4233.67,Environmental Services,36,2,2012,1,Miami,Miami,34,1700,Small,3,186111.1111,0–5 Years
+76,https://www.inc.com/profile/brickell-mens-products,Brickell Men's Products,brickellmensproducts.com,ME,10,4207.86,Health,35,2,2014,1,Portland,Portland,33,1650,Small,1,285714.2857,0–5 Years
+77,https://www.inc.com/profile/patton-warehousing,Patton Warehousing,pattonwarehousing.com,PA,8.2,4138.11,Logistics & Transportation,78,11,2015,1,Milton,Milton,67,609.09,Medium,0,105128.2051,0–5 Years
+78,https://www.inc.com/profile/sydantech,SydanTech,sydantech.com,MD,4.3,4090.74,Government Services,14,1,2000,1,"Washington, DC",Bethesda,13,1300,Small,15,307142.8571,Above 10 Years
+79,https://www.inc.com/profile/wt-stevens-construction,WT Stevens Construction,http://wtstevens.com,MI,7.2,4089.66,Construction,40,6,2002,1,Flint,Flint,34,566.67,Small,13,180000,Above 10 Years
+80,https://www.inc.com/profile/wandrd,Wandrd,http://wandrd.com,UT,4.7,4088.02,Consumer Products & Services,12,2,2015,1,"Provo-Orem, UT",Orem,10,500,Small,0,391666.6667,0–5 Years
+81,https://www.inc.com/profile/confidio,Confidio,confidio.com,MD,16.3,4035.18,Health,38,8,2014,1,Baltimore,Towson,30,375,Small,1,428947.3684,0–5 Years
+82,https://www.inc.com/profile/dynamic-logistix,Dynamic Logistix,dynamiclogistix.com,KS,54.4,3839.84,Logistics & Transportation,50,4,2015,1,"Kansas City, MO-KS",Overland Park,46,1150,Medium,0,1088000,0–5 Years
+83,https://www.inc.com/profile/asset-panda,Asset Panda,http://assetpanda.com,TX,5.1,3778.54,Software,50,15,2012,2,Dallas,Frisco,35,233.33,Medium,3,102000,0–5 Years
+83,https://www.inc.com/profile/seabay-building-group,SeaBay Building Group,seabay-group.com,CA,25.8,3775.14,Construction,25,3,2013,1,San Francisco,Hayward,22,733.33,Small,2,1032000,0–5 Years
+84,https://www.inc.com/profile/blue-fire-leads,Blue Fire Leads,http://bluefireleads.com/home,UT,9,3727.53,Advertising & Marketing,13,10,2014,2,"Provo-Orem, UT",Provo,3,30,Small,1,692307.6923,0–5 Years
+85,https://www.inc.com/profile/loanatik,Loanatik,loanatik.com,AZ,9,3692.35,Financial Services,19,3,2015,1,Phoenix,Phoenix,16,533.33,Small,0,473684.2105,0–5 Years
+86,https://www.inc.com/profile/supportninja,SupportNinja,http://supportninja.com,TX,4.5,3683.68,Business Products & Services,463,22,2015,1,Austin,Austin,441,2004.55,Large,0,9719.222462,0–5 Years
+87,https://www.inc.com/profile/grove-collaborative,Grove Collaborative,http://grove.co,CA,104.1,3665.06,Consumer Products & Services,1200,30,2012,2,San Francisco,San Francisco,1170,3900,Large,3,86750,0–5 Years
+88,https://www.inc.com/profile/cisoshare,Cisoshare,http://cisoshare.com,CA,3.9,3623.06,Security,25,3,2015,1,Los Angeles,San Juan Capistrano,22,733.33,Small,0,156000,0–5 Years
+89,https://www.inc.com/profile/digitalonus,DigitalOnUS,digitalonus.com,CA,10.4,3534.77,IT System Development,178,11,2015,2,San Jose,San Jose,167,1518.18,Medium,0,58426.96629,0–5 Years
+90,https://www.inc.com/profile/gforce-life-sciences,GForce Life Sciences,gforcelifesciences.com,IL,14.4,3531.59,Human Resources,49,4,2013,2,Chicago,Chicago,45,1125,Small,2,293877.551,0–5 Years
+91,https://www.inc.com/profile/capitol-bridge,Capitol Bridge,capitolbridgellc.com,VA,6.4,3469.39,Government Services,35,5,2012,2,"Washington, DC",Arlington,30,600,Small,3,182857.1429,0–5 Years
+92,https://www.inc.com/profile/kentucky-counseling-center,Kentucky Counseling Center,kentuckycounselingcenter.com,KY,4.9,3417.63,Health,19,1,2014,1,"Louisville/Jefferson County, KY-IN",LOUISVILLE,18,1800,Small,1,257894.7368,0–5 Years
+93,https://www.inc.com/profile/shefit,Shefit,shefit.com,MI,6.6,3399.53,Retail,25,3,2013,2,Hudsonville,Hudsonville,22,733.33,Small,2,264000,0–5 Years
+94,https://www.inc.com/profile/us-mobile,US Mobile,usmobile.com,NY,7.3,3387.66,Telecommunications,65,7,2014,1,New York City,White Plains,58,828.57,Medium,1,112307.6923,0–5 Years
+95,https://www.inc.com/profile/feedonomics,Feedonomics,feedonomics.com,CA,7.4,3371.03,Advertising & Marketing,85,1,2014,1,Los Angeles,Woodland Hills,84,8400,Medium,1,87058.82353,0–5 Years
+96,https://www.inc.com/profile/amenity-health,Amenity Health,amenityhealth.com,CA,15.3,3357.7,Health,16,8,2011,1,San Diego,San Diego,8,100,Small,4,956250,0–5 Years
+97,https://www.inc.com/profile/payability,Payability,http://payability.com,NY,13.7,3350.01,Financial Services,54,10,2014,1,New York City,New York,44,440,Medium,1,253703.7037,0–5 Years
+98,https://www.inc.com/profile/eagle-transport-and-logistics,Eagle Transport and Logistics,theeagletransport.com,OH,4.8,3339.62,Logistics & Transportation,35,1,2014,1,"Columbus, OH",Columbus,34,3400,Small,1,137142.8571,0–5 Years
+99,https://www.inc.com/profile/shipbob,ShipBob,shipbob.com,IL,34.2,3325.71,Logistics & Transportation,450,25,2014,1,Chicago,Chicago,425,1700,Large,1,76000,0–5 Years
+100,https://www.inc.com/profile/powerhome-solar,Powerhome Solar,http://powerhome.com,NC,102.9,3307.17,Construction,585,15,2015,2,Mooresville,Mooresville,570,3800,Large,0,175897.4359,0–5 Years
+101,https://www.inc.com/profile/lendingone,LendingOne,lendingone.com,FL,13.9,3279.22,Financial Services,50,18,2014,1,Miami,Boca Raton,32,177.78,Medium,1,278000,0–5 Years
+102,https://www.inc.com/profile/ownbackup,OwnBackup,ownbackup.com,NJ,9,3244.55,Software,86,4,2015,1,New York City,Fort Lee,82,2050,Medium,0,104651.1628,0–5 Years
+103,https://www.inc.com/profile/invictus-international-consulting,Invictus International Consulting,http://invictusic.com,VA,33,3215.11,Government Services,151,24,2014,1,"Washington, DC",Alexandria,127,529.17,Medium,1,218543.0464,0–5 Years
+104,https://www.inc.com/profile/go-energistics,Go Energistics,goenergistics.com,TX,14.4,3210.26,Construction,46,1,2011,1,Dallas,Colleyville,45,4500,Small,4,313043.4783,0–5 Years
+105,https://www.inc.com/profile/total-expert,Total Expert,totalexpert.com,MN,11.1,3205.61,Software,180,12,2014,2,Minneapolis,Minneapolis,168,1400,Medium,1,61666.66667,0–5 Years
+106,https://www.inc.com/profile/buzzybooth,BuzzyBooth,http://buzzybooth.com,CA,3.5,3201.15,Business Products & Services,18,3,2015,1,Los Angeles,Santa Monica,15,500,Small,0,194444.4444,0–5 Years
+107,https://www.inc.com/profile/carolin-soldo-coaching-events,Carolin Soldo Coaching & Events,http://carolinsoldo.com,NY,3.9,3178.68,Business Products & Services,1,1,2015,1,Hamburg,Hamburg,0,0,Small,0,3900000,0–5 Years
+108,https://www.inc.com/profile/cognira,Cognira,http://cognira.com,GA,7.6,3135.65,Software,50,8,2015,1,Atlanta,Atlanta,42,525,Medium,0,152000,0–5 Years
+109,https://www.inc.com/profile/b3-group,B3 Group,b3groupinc.com,VA,59.3,3134.47,Government Services,145,17,2008,3,"Washington, DC",Herndon,128,752.94,Medium,7,408965.5172,6–10 Years
+110,https://www.inc.com/profile/inspiranza-designs,Inspiranza Designs,inspiranzadesigns.com,IL,4.7,3099.33,Retail,10,2,2005,2,"St. Louis, MO-IL",Columbia,8,400,Small,10,470000,6–10 Years
+111,https://www.inc.com/profile/onesourcepcs,OnesourcePCS,onesourcepcs.com,FL,7.8,3051.33,Government Services,52,12,2002,1,PENSACOLA,PENSACOLA,40,333.33,Medium,13,150000,Above 10 Years
+112,https://www.inc.com/profile/cience-technologies,Cience Technologies,http://cience.com,CA,3.8,3050,Advertising & Marketing,310,30,2015,1,San Diego,Solana Beach,280,933.33,Large,0,12258.06452,0–5 Years
+113,https://www.inc.com/profile/austin-cryo-ventures,Austin Cryo Ventures,http://restorecryotherapy.com,TX,5.1,3031.42,Health,15,2,2015,1,Austin,Austin,13,650,Small,0,340000,0–5 Years
+114,https://www.inc.com/profile/sweet-lorens,Sweet Loren's,http://sweetlorens.com,NY,6.4,3026.35,Food & Beverage,5,3,2010,1,New York City,New York,2,66.67,Small,5,1280000,0–5 Years
+115,https://www.inc.com/profile/copper,Copper,http://copper.com,CA,19,3023.13,Software,191,46,2013,1,San Francisco,San Francisco,145,315.22,Medium,2,99476.43979,0–5 Years
+116,https://www.inc.com/profile/5-star-roofing-and-restoration,5 Star Roofing and Restoration,5starroofer.com,AL,3.3,2994.29,Construction,40,1,2015,1,"Birmingham, AL",Birmingham,39,3900,Small,0,82500,0–5 Years
+117,https://www.inc.com/profile/digitalcrafts,DigitalCrafts,http://digitalcrafts.com,GA,3.1,2957.35,Education,30,3,2015,1,Atlanta,Atlanta,27,900,Small,0,103333.3333,0–5 Years
+118,https://www.inc.com/profile/loadup-technologies,LoadUp Technologies,http://goloadup.com,GA,3.7,2938.54,Logistics & Transportation,15,1,2014,1,Atlanta,Atlanta,14,1400,Small,1,246666.6667,0–5 Years
+119,https://www.inc.com/profile/skillset-group,SkillSet Group,skillsetgroup.com,CA,23.6,2911.17,Human Resources,740,5,2013,2,Los Angeles,Santa Ana,735,14700,Large,2,31891.89189,0–5 Years
+120,https://www.inc.com/profile/ally-logistics,Ally Logistics,allylogistics.com,MI,25.8,2872.11,Logistics & Transportation,37,12,2012,1,Grand Rapids,Grand Rapids,25,208.33,Small,3,697297.2973,0–5 Years
+121,https://www.inc.com/profile/bamfi,BAMFi,bamfi.com,GA,12.3,2861.24,Financial Services,66,12,2012,1,Atlanta,Atlanta,54,450,Medium,3,186363.6364,0–5 Years
+122,https://www.inc.com/profile/potoo,Potoo,potoosolutions.com,CT,6.6,2812.68,Business Products & Services,60,15,2014,1,"Bridgeport-Stamford-Norwalk, CT",Norwalk,45,300,Medium,1,110000,0–5 Years
+123,https://www.inc.com/profile/parsons-xtreme-golf,Parsons Xtreme Golf,pxg.com,AZ,79,2804.95,Consumer Products & Services,196,32,2014,1,Phoenix,Scottsdale,164,512.5,Medium,1,403061.2245,0–5 Years
+124,https://www.inc.com/profile/onfleet,Onfleet,http://onfleet.com,CA,3.5,2795.41,Logistics & Transportation,19,7,2012,1,San Francisco,San Francisco,12,171.43,Small,3,184210.5263,0–5 Years
+125,https://www.inc.com/profile/patientpop,PatientPop,http://patientpop.com,CA,38.8,2781.57,Health,375,75,2014,1,Los Angeles,Santa Monica,300,400,Large,1,103466.6667,0–5 Years
+126,https://www.inc.com/profile/gravity-resources,Gravity IT Resources,http://gravityitresources.com,FL,4.7,2773.59,Business Products & Services,25,5,2015,1,Miami,Fort Lauderdale,20,400,Small,0,188000,0–5 Years
+127,https://www.inc.com/profile/medlab-international,MedLab International,medlabgear.com,OH,3.2,2742.64,Health,8,1,2015,1,Cortland,Cortland,7,700,Small,0,400000,0–5 Years
+128,https://www.inc.com/profile/equity-help,Equity & Help,equityandhelp.com,FL,3.2,2729.35,Business Products & Services,20,4,2014,1,Tampa,Clearwater,16,400,Small,1,160000,0–5 Years
+129,https://www.inc.com/profile/ridgeline-international,Ridgeline International,ridgelineintl.com,VA,30,2728.99,Telecommunications,125,8,2015,1,"Washington, DC",Tysons Corner,117,1462.5,Medium,0,240000,0–5 Years
+130,https://www.inc.com/profile/china-metal-solutions,China Metal Solutions,chinametalsolutions.com,IL,3.1,2704.97,Manufacturing,5,1,2015,1,Chicago,Chicago,4,400,Small,0,620000,0–5 Years
+131,https://www.inc.com/profile/bluesky-resource-solutions,BlueSky Resource Solutions,http://blueskyrs.com,GA,6.7,2696.63,Business Products & Services,98,12,2013,1,Atlanta,Atlanta,86,716.67,Medium,2,68367.34694,0–5 Years
+132,https://www.inc.com/profile/centauri-health-solutions,Centauri Health Solutions,centaurihs.com,AZ,84.8,2694.33,Health,941,51,2014,1,Phoenix,scottsdale,890,1745.1,Large,1,90116.89692,0–5 Years
+133,https://www.inc.com/profile/celltrade-ny,CellTrade NY,celltradeny.com,NY,12.4,2689.61,Consumer Products & Services,11,2,2015,1,New York City,Hicksville,9,450,Small,0,1127272.727,0–5 Years
+134,https://www.inc.com/profile/exabeam,Exabeam,exabeam.com,CA,38.8,2678.54,Security,274,54,2013,2,San Francisco,San Mateo,220,407.41,Large,2,141605.8394,0–5 Years
+135,https://www.inc.com/profile/kinsmen-group,Kinsmen Group,kinsmengroup.com,PA,4,2668.01,Software,21,5,2015,1,Philadelphia,West Chester,16,320,Small,0,190476.1905,0–5 Years
+136,https://www.inc.com/profile/owens-recovery-science,Owens Recovery Science,owensrecoveryscience.com,TX,5.4,2657.41,Health,6,2,2015,1,"San Antonio, TX",San Antonio,4,200,Small,0,900000,0–5 Years
+137,https://www.inc.com/profile/winit,WinIt,http://appwinit.com,NY,6.5,2635.92,Consumer Products & Services,6,2,2014,1,New York City,New York,4,200,Small,1,1083333.333,0–5 Years
+138,https://www.inc.com/profile/techolution,Techolution,techolution.com,NY,9.8,2633.95,IT System Development,176,10,2014,1,New York City,New York,166,1660,Medium,1,55681.81818,0–5 Years
+139,https://www.inc.com/profile/solvix-solutions,Solvix Solutions,http://solvixsolutions.com,NJ,20.4,2623.95,Computer Hardware,10,2,2013,2,Philadelphia,Marlton,8,400,Small,2,2040000,0–5 Years
+140,https://www.inc.com/profile/lovebug-probiotics,LoveBug Probiotics,http://lovebugprobiotics.com,NY,3.1,2620.76,Consumer Products & Services,4,2,2015,1,New York City,New York,2,100,Small,0,775000,0–5 Years
+141,https://www.inc.com/profile/nationwide-pharmaceutical,Nationwide Pharmaceutical,nationwidepharmaceutical.com,TX,7.1,2618.02,Government Services,12,3,2014,1,"San Antonio, TX",San Antonio,9,300,Small,1,591666.6667,0–5 Years
+142,https://www.inc.com/profile/freedom-forever,Freedom Forever,http://freedomforever.com,CA,101.1,2603.39,Energy,358,84,2013,2,"Inland Empire, CA",Temecula,274,326.19,Large,2,282402.2346,0–5 Years
+143,https://www.inc.com/profile/alpha-omega-integration,Alpha Omega Integration,alphaomegaintegration.com,VA,25.1,2596.32,Government Services,145,1,2010,2,"Washington, DC",Vienna,144,14400,Medium,5,173103.4483,0–5 Years
+144,https://www.inc.com/profile/arsenal-strength,Arsenal Strength,http://myarsenalstrength.com,TN,4.7,2578.63,Business Products & Services,4,2,2014,1,Knoxville,Knoxville,2,100,Small,1,1175000,0–5 Years
+145,https://www.inc.com/profile/capital-brand-group,Capital Brand Group,http://capitalbrandgroup.com,MD,3.5,2564.37,Construction,16,2,2013,1,"Washington, DC",Silver Spring,14,700,Small,2,218750,0–5 Years
+146,https://www.inc.com/profile/fedwriters,FedWriters,fedwriters.com,VA,5.4,2555.66,Government Services,57,1,2010,2,"Washington, DC",Fairfax,56,5600,Medium,5,94736.84211,0–5 Years
+147,https://www.inc.com/profile/sethmar-transportation,Sethmar Transportation,sethmar.com,KS,9.2,2540.41,Logistics & Transportation,18,1,1999,1,"Kansas City, MO-KS",Overland Park,17,1700,Small,16,511111.1111,Above 10 Years
+148,https://www.inc.com/profile/hyperion-partners,Hyperion Partners,hyperionpartners.net,NV,18.5,2525.56,Telecommunications,36,3,2012,2,"Las Vegas, NV",Las Vegas,33,1100,Small,3,513888.8889,0–5 Years
+149,https://www.inc.com/profile/arcalea,Arcalea,arcalea.com,IL,2.8,2514.3,Advertising & Marketing,12,2,2015,1,Chicago,Chicago,10,500,Small,0,233333.3333,0–5 Years
+150,https://www.inc.com/profile/haga-kommer,Haga Kommer,hagakommer.com,ND,5.5,2506.93,Financial Services,55,1,2006,2,Fargo,Fargo,54,5400,Medium,9,100000,6–10 Years
+151,https://www.inc.com/profile/waggl,Waggl,waggl.com,CA,4.4,2482.35,Software,55,6,2014,1,San Francisco,Sausalito,49,816.67,Medium,1,80000,0–5 Years
+152,https://www.inc.com/profile/roman-roofing,Roman Roofing,romanroofinginc.com,FL,21.8,2482.13,Construction,71,21,2015,1,Florida,Florida,50,238.1,Medium,0,307042.2535,0–5 Years
+153,https://www.inc.com/profile/akumina,Akumina,akumina.com,NH,4.4,2474.54,Software,48,20,2011,1,Nashua,Nashua,28,140,Small,4,91666.66667,0–5 Years
+154,https://www.inc.com/profile/shipmonk,ShipMonk,shipmonk.com,FL,28.4,2470.12,Logistics & Transportation,350,30,2014,2,Miami,Deerfield Beach,320,1066.67,Large,1,81142.85714,0–5 Years
+155,https://www.inc.com/profile/brillmediaco,BrillMedia.co,brillmedia.co,CA,4,2465.57,Advertising & Marketing,5,1,2013,1,Los Angeles,Lake Balboa,4,400,Small,2,800000,0–5 Years
+156,https://www.inc.com/profile/rocket-insights,Rocket Insights,http://rocketinsights.com,MA,13.6,2417.97,Software,58,5,2015,1,Boston,Boston,53,1060,Medium,0,234482.7586,0–5 Years
+157,https://www.inc.com/profile/tridant-solutions,Tridant Solutions,tridantsolutions.com,CA,3,2415.74,Government Services,42,5,2005,2,Los Angeles,Pasadena,37,740,Small,10,71428.57143,6–10 Years
+158,https://www.inc.com/profile/esc-choice,ESC Choice,myesc.com,NY,20.6,2412.1,Human Resources,545,166,2009,8,Amherst,Amherst,379,228.31,Large,6,37798.16514,6–10 Years
+159,https://www.inc.com/profile/nugget,Nugget,nuggetcomfort.com,NC,3,2391.86,Consumer Products & Services,15,3,2014,1,Hillsborough,Hillsborough,12,400,Small,1,200000,0–5 Years
+160,https://www.inc.com/profile/octopi-brewing,Octopi Brewing,http://octopibrewing.com,WI,4.9,2383.95,Manufacturing,36,5,2014,1,"Madison, WI",Waunakee,31,620,Small,1,136111.1111,0–5 Years
+161,https://www.inc.com/profile/knowbe4,KnowBe4,knowbe4.com,FL,72.3,2370.36,Security,650,200,2010,4,Tampa,Clearwater,450,225,Large,5,111230.7692,0–5 Years
+162,https://www.inc.com/profile/kinect-solar,Kinect Solar,http://kinectsolar.com,TX,13.3,2358.25,Energy,8,2,2015,1,Austin,Austin,6,300,Small,0,1662500,0–5 Years
+163,https://www.inc.com/profile/compliancequest,ComplianceQuest,compliancequest.com,FL,2.5,2356.78,Software,60,25,2013,1,Tampa,Tampa,35,140,Medium,2,41666.66667,0–5 Years
+164,https://www.inc.com/profile/decisionpoint,DecisionPoint,decisionpointcorp.com,MD,15.9,2354.42,IT Management,100,6,2011,1,"Washington, DC",Gaithersburg,94,1566.67,Medium,4,159000,0–5 Years
+165,https://www.inc.com/profile/bombas,Bombas,bombas.com,NY,100.8,2345.01,Consumer Products & Services,63,11,2013,2,New York City,New York,52,472.73,Medium,2,1600000,0–5 Years
+166,https://www.inc.com/profile/jonas-paul-eyewear,Jonas Paul Eyewear,jonaspauleyewear.com,MI,3,2339.93,Consumer Products & Services,12,3,2013,1,Grand Rapids,Grand Rapids,9,300,Small,2,250000,0–5 Years
+167,https://www.inc.com/profile/tamimi-pharmacy,Tamimi Pharmacy,http://salhabpharmacy.com,FL,15.5,2313.84,Health,40,8,2013,1,Tampa,Temple Terrace,32,400,Small,2,387500,0–5 Years
+168,https://www.inc.com/profile/ad-hoc,Ad Hoc,adhoc.team,MD,53.1,2305.05,Government Services,199,2,2014,1,"Washington, DC",Silver Spring,197,9850,Medium,1,266834.1709,0–5 Years
+169,https://www.inc.com/profile/valify,Valify,getvalify.com,TX,3.1,2276.09,Software,36,7,2014,1,Dallas,Frisco,29,414.29,Small,1,86111.11111,0–5 Years
+170,https://www.inc.com/profile/sapper-consulting,Sapper Consulting,sapperconsulting.com,MO,6.4,2274.41,Advertising & Marketing,90,6,2014,2,"St. Louis, MO-IL",St. Louis,84,1400,Medium,1,71111.11111,0–5 Years
+171,https://www.inc.com/profile/privy,Privy,http://privy.com,MA,3,2262.86,Advertising & Marketing,30,3,2012,1,Boston,Boston,27,900,Small,3,100000,0–5 Years
+172,https://www.inc.com/profile/scooch,Scooch,scoochcase.com,IN,5.7,2248.47,Consumer Products & Services,8,3,2015,1,"Indianapolis, IN",Noblesville,5,166.67,Small,0,712500,0–5 Years
+173,https://www.inc.com/profile/monkedia,Monkedia,monkedia.com,TX,17.4,2240,Advertising & Marketing,48,2,2014,2,Dallas,Irving,46,2300,Small,1,362500,0–5 Years
+174,https://www.inc.com/profile/upshow,UPshow,upshow.tv,IL,2.6,2235.94,Business Products & Services,30,8,2015,1,Chicago,Chicago,22,275,Small,0,86666.66667,0–5 Years
+175,https://www.inc.com/profile/campuslogic,CampusLogic,campuslogic.com,AZ,14.2,2233.83,Software,105,25,2011,3,Phoenix,"Chandler,",80,320,Medium,4,135238.0952,0–5 Years
+176,https://www.inc.com/profile/pcc-cleaning-and-maintenance,PCC Cleaning and Maintenance,pcccleaning.com,NY,12,2230.93,Environmental Services,80,40,2015,1,New York City,Brooklyn,40,100,Medium,0,150000,0–5 Years
+177,https://www.inc.com/profile/quirk-creative,Quirk Creative,findyourquirk.com,NY,3.3,2205.18,Advertising & Marketing,9,2,2015,1,New York City,Brooklyn,7,350,Small,0,366666.6667,0–5 Years
+178,https://www.inc.com/profile/tricopian,Tricopian,fuel-rod.com,CA,7,2171.96,Consumer Products & Services,18,5,2011,1,San Diego,Poway,13,260,Small,4,388888.8889,0–5 Years
+179,https://www.inc.com/profile/efficient-home-services-of-florida,Efficient Home Services of Florida,ehsfl.com,FL,9.9,2155.41,Energy,50,10,2011,1,Tampa,Tampa,40,400,Medium,4,198000,0–5 Years
+180,https://www.inc.com/profile/fitness-cubed,Fitness Cubed,cubii.com,IL,10.3,2142.27,Manufacturing,13,3,2014,1,Chicago,Chicago,10,333.33,Small,1,792307.6923,0–5 Years
+181,https://www.inc.com/profile/velox-media,Velox Media,veloxmedia.com,ID,3.1,2142.08,Advertising & Marketing,41,1,2007,1,"Boise City-Nampa, ID",Boise,40,4000,Small,8,75609.7561,6–10 Years
+182,https://www.inc.com/profile/1link-technology,1Link Technology,http://1linktechnology.com,TN,4.6,2138.2,IT Management,55,20,2014,1,Germantown,Germantown,35,175,Medium,1,83636.36364,0–5 Years
+183,https://www.inc.com/profile/quadrant-resource,Quadrant Resource,http://quadrantresource.com,WA,12.8,2122.66,Software,100,15,2004,2,Seattle,Redmond,85,566.67,Medium,11,128000,Above 10 Years
+184,https://www.inc.com/profile/myhealth,MyHealth,chartrequest.com,GA,2.7,2116.41,Health,64,12,2015,1,Atlanta,Brookhaven,52,433.33,Medium,0,42187.5,0–5 Years
+185,https://www.inc.com/profile/velocity-global,Velocity Global,velocityglobal.com,CO,85.8,2112.2,Business Products & Services,103,3,2014,2,Denver,Denver,100,3333.33,Medium,1,833009.7087,0–5 Years
+186,https://www.inc.com/profile/oseth-group,Oseth Group,osethgroup.com,VA,5.4,2107.04,Construction,23,1,2015,1,"Washington, DC",Sterling,22,2200,Small,0,234782.6087,0–5 Years
+187,https://www.inc.com/profile/koia,Koia,drinkkoia.com,CA,8.2,2100.96,Food & Beverage,15,1,2013,1,Los Angeles,San Diego,14,1400,Small,2,546666.6667,0–5 Years
+188,https://www.inc.com/profile/sifted,Sifted,sifted.co,GA,6.9,2099.21,Food & Beverage,142,6,2015,1,Atlanta,Atlanta,136,2266.67,Medium,0,48591.5493,0–5 Years
+189,https://www.inc.com/profile/prx-performance,PRx Performance,prxperformance.com,ND,7.2,2097.53,Retail,18,3,2013,2,Fargo,Fargo,15,500,Small,2,400000,0–5 Years
+190,https://www.inc.com/profile/universal-yums,Universal Yums,http://universalyums.com,NJ,12.7,2095.62,Food & Beverage,28,2,2014,1,New York City,Parsippany-Troy Hills,26,1300,Small,1,453571.4286,0–5 Years
+191,https://www.inc.com/profile/bridge-brothers,Bridge Brothers,http://bridgebrothers.com,GA,4.1,2081.89,Manufacturing,14,1,2015,1,Atlanta,Atlanta,13,1300,Small,0,292857.1429,0–5 Years
+192,https://www.inc.com/profile/dynamic-systems-technology,Dynamic Systems Technology,http://dystech.com,VA,24.7,2077.02,Government Services,350,35,1995,4,"Washington, DC",Fairfax,315,900,Large,20,70571.42857,Above 10 Years
+193,https://www.inc.com/profile/supinf-technologies,Supinf Technologies,supinf-tech.com,MD,4.5,2076.88,Government Services,10,2,2009,1,"Washington, DC",Rockville,8,400,Small,6,450000,6–10 Years
+194,https://www.inc.com/profile/davis-cargo,Davis Cargo,daviscargo.com,FL,32.9,2068.49,Logistics & Transportation,45,4,2014,1,"Orlando, FL",orlando,41,1025,Small,1,731111.1111,0–5 Years
+195,https://www.inc.com/profile/polaris-energy-services,Polaris Energy Services,polarisenergyservices.com,CA,2.2,2047.2,Energy,10,2,2014,1,San Luis Obispo,San Luis Obispo,8,400,Small,1,220000,0–5 Years
+196,https://www.inc.com/profile/setschedule,SetSchedule,setschedule.com,CA,3.6,2037.45,Real Estate,62,5,2014,1,Los Angeles,Irvine,57,1140,Medium,1,58064.51613,0–5 Years
+197,https://www.inc.com/profile/l2-defense,L2 Defense,l2defense.com,MD,20.8,2037.09,Government Services,60,10,2012,3,Baltimore,Middle River,50,500,Medium,3,346666.6667,0–5 Years
+198,https://www.inc.com/profile/motivosity,Motivosity,http://motivosity.com/index.html,UT,3.6,2029.66,Software,18,4,2013,1,"Provo-Orem, UT",Orem,14,350,Small,2,200000,0–5 Years
+199,https://www.inc.com/profile/advoc8,Advoc8,http://advoc8.com,DC,14.3,2027,Advertising & Marketing,30,1,2015,1,"Washington, DC",Washington,29,2900,Small,0,476666.6667,0–5 Years
+200,https://www.inc.com/profile/real-plans,Real Plans,http://realplans.com,CA,4,2018.23,Software,23,8,2014,2,Los Angeles,Walnut,15,187.5,Small,1,173913.0435,0–5 Years
+201,https://www.inc.com/profile/axiom-strategies,Axiom Strategies,axiomstrategies.com,MO,138.4,2013.47,Advertising & Marketing,102,27,2005,1,"Kansas City, MO-KS",Kansas City,75,277.78,Medium,10,1356862.745,6–10 Years
+202,https://www.inc.com/profile/midway-staffing,Midway Staffing,midwaystaffing.com,IL,40.5,2007.05,Business Products & Services,2330,220,2015,1,Chicago,Berwyn,2110,959.09,Large,0,17381.97425,0–5 Years
+203,https://www.inc.com/profile/perfect-part,Perfect Part,theperfectpart.net,CA,2.3,2004.39,Telecommunications,5,2,2013,1,Los Angeles,North Hollywood,3,150,Small,2,460000,0–5 Years
+204,https://www.inc.com/profile/silverline-home-remodeling,Silverline Home Remodeling,silverlinebuilder.com,CA,2.2,1996.52,Construction,5,1,2014,1,Los Angeles,Canoga Park,4,400,Small,1,440000,0–5 Years
+205,https://www.inc.com/profile/maxim-zenwise-opco,Maxim Zenwise Opco,zenwisehealth.com,FL,37.5,1987.43,Consumer Products & Services,25,3,2014,1,"Orlando, FL",Orlando,22,733.33,Small,1,1500000,0–5 Years
+206,https://www.inc.com/profile/world-housing-solution,World Housing Solution,worldhousingsolution.com,FL,5.1,1972.03,Manufacturing,29,3,2011,2,"Orlando, FL",SANFORD,26,866.67,Small,4,175862.069,0–5 Years
+207,https://www.inc.com/profile/city-ventures,City Ventures,city-ventures.com,NE,113.5,1967.92,Real Estate,250,50,2013,2,"Omaha-Council Bluffs, NE-IA",Omaha,200,400,Large,2,454000,0–5 Years
+208,https://www.inc.com/profile/web-presence,Web Presence,netreputation.com,FL,3.9,1963.23,Advertising & Marketing,23,5,2014,1,Sarasota,Sarasota,18,360,Small,1,169565.2174,0–5 Years
+209,https://www.inc.com/profile/energy-earth,Energy Earth,energyearth.com,TN,22.3,1952.83,Advertising & Marketing,42,14,2011,1,Chattanooga,Chattanooga,28,200,Small,4,530952.381,0–5 Years
+210,https://www.inc.com/profile/empowered-electric,Empowered Electric,empoweredkc.com,MO,3.6,1944.02,Construction,28,4,2015,1,"Kansas City, MO-KS",North Kansas City,24,600,Small,0,128571.4286,0–5 Years
+211,https://www.inc.com/profile/bookkeeper-business-launch,Bookkeeper Business Launch,learntobeabookkeeper.com,WY,4.4,1939.84,Education,8,1,2015,1,Cheyenne,Cheyenne,7,700,Small,0,550000,0–5 Years
+212,https://www.inc.com/profile/noom,Noom,noom.com/#,NY,61.1,1938.04,Health,1246,105,2008,1,New York City,New York City,1141,1086.67,Large,7,49036.91814,6–10 Years
+213,https://www.inc.com/profile/zenith-engineers,Zenith Engineers,zenithengineers.com,CA,2.7,1924.28,Engineering,30,6,2009,2,San Francisco,Hayward,24,400,Small,6,90000,6–10 Years
+214,https://www.inc.com/profile/lets-make-a-lead,Let's Make A Lead,adopt-a-contractor.com,FL,4.1,1918.68,Business Products & Services,14,2,2014,1,Miami,Miami,12,600,Small,1,292857.1429,0–5 Years
+215,https://www.inc.com/profile/momentum-solar,Momentum Solar,momentumsolar.com,NJ,161.8,1917,Energy,1160,40,2009,4,New York City,South Plainfield,1120,2800,Large,6,139482.7586,6–10 Years
+216,https://www.inc.com/profile/radius-networks,Radius Networks,radiusnetworks.com,DC,31.5,1915.1,Software,54,21,2011,2,"Washington, DC",Washington,33,157.14,Medium,4,583333.3333,0–5 Years
+217,https://www.inc.com/profile/fattmerchant,Fattmerchant,fattmerchant.com,FL,4.5,1914.74,Financial Services,75,5,2014,1,"Orlando, FL",Orlando,70,1400,Medium,1,60000,0–5 Years
+218,https://www.inc.com/profile/infinium-group,Infinium Group,infiniumhr.com,CA,3.5,1905.46,Human Resources,8,3,2014,1,"Inland Empire, CA",MURRIETA,5,166.67,Small,1,437500,0–5 Years
+219,https://www.inc.com/profile/global-memory-procurement-corporation-dba-memorynet,Memory.net,http://memory.net,CA,18.7,1901.16,Computer Hardware,11,4,2000,1,Los Angeles,SAN CLEMENTE,7,175,Small,15,1700000,Above 10 Years
+220,https://www.inc.com/profile/factorypure,FactoryPure,factorypure.com,TX,6.1,1882.77,Retail,5,2,2013,1,"San Antonio, TX",san antonio,3,150,Small,2,1220000,0–5 Years
+221,https://www.inc.com/profile/untappd,Untappd,untappd.com,NC,10,1882.03,Software,90,2,2010,3,Wilmington,Wilmington,88,4400,Medium,5,111111.1111,0–5 Years
+222,https://www.inc.com/profile/mikmak,MikMak,mikmak.tv,NY,2.7,1877.52,Advertising & Marketing,11,5,2015,1,New York City,New York,6,120,Small,0,245454.5455,0–5 Years
+223,https://www.inc.com/profile/fusion-recruiting-labs,Fusion Recruiting Labs,fusionrl.com,NJ,7.7,1851.63,Software,45,7,2015,1,New York City,Red Bank,38,542.86,Small,0,171111.1111,0–5 Years
+224,https://www.inc.com/profile/office-libations,Office Libations,officelibations.com,CA,4.5,1843.56,Food & Beverage,15,3,2014,1,San Francisco,Oakland,12,400,Small,1,300000,0–5 Years
+225,https://www.inc.com/profile/broker-online-exchange,Broker Online Exchange,brokeronlinexchange.com,NY,8.2,1838.32,Energy,25,7,2013,1,New York City,Suffern,18,257.14,Small,2,328000,0–5 Years
+226,https://www.inc.com/profile/odl-services,ODL Services,odlservices.com,VA,6.6,1820.78,Government Services,15,3,2012,2,Virginia Beach,Virginia Beach,12,400,Small,3,440000,0–5 Years
+227,https://www.inc.com/profile/platinum-health,Platinum Health,http://platinumhealthllc.com,FL,10.7,1813.54,Health,4,2,2014,1,"Orlando, FL",Orlando,2,100,Small,1,2675000,0–5 Years
+228,https://www.inc.com/profile/avelead,Avelead,avelead.com,GA,7.2,1808.73,IT System Development,40,8,2014,2,Atlanta,Suwanee,32,400,Small,1,180000,0–5 Years
+229,https://www.inc.com/profile/CMG-Midwest,CMG-Midwest,http://cmgmidwest.com,MO,2.6,1802.25,Construction,5,1,2012,1,"Kansas City, MO-KS",Cleveland,4,400,Small,3,520000,0–5 Years
+230,https://www.inc.com/profile/quince-orchard-psychotherapy,Quince Orchard Psychotherapy,http://qopsych.com,MD,2.9,1797.14,Health,33,3,2015,1,"Washington, DC",Gaithersburg,30,1000,Small,0,87878.78788,0–5 Years
+231,https://www.inc.com/profile/redshelf,RedShelf,about.redshelf.com,IL,46.2,1797.04,Education,79,22,2012,2,Chicago,Chicago,57,259.09,Medium,3,584810.1266,0–5 Years
+232,https://www.inc.com/profile/transamerica-express-logistics,TransAmerica Express Logistics,http://transamericaexp.com,CA,120.5,1795.69,Logistics & Transportation,22,2,2015,1,Sacramento,Sacramento,20,1000,Small,0,5477272.727,0–5 Years
+233,https://www.inc.com/profile/flipcause,Flipcause,flipcause.com,CA,4.7,1792.34,Software,30,11,2012,1,San Francisco,Oakland,19,172.73,Small,3,156666.6667,0–5 Years
+234,https://www.inc.com/profile/simply-nuc,Simply NUC,simplynuc.com,TX,12,1790.1,Computer Hardware,44,5,2015,1,Austin,Round Rock,39,780,Small,0,272727.2727,0–5 Years
+235,https://www.inc.com/profile/virtual-machine-solutions,Virtual Machine Solutions,http://virmach.com,CA,2.3,1789.8,IT Management,3,1,2014,1,Los Angeles,Los Angeles,2,200,Small,1,766666.6667,0–5 Years
+236,https://www.inc.com/profile/gateway-genomics,Gateway Genomics,gatewaygenomics.org,CA,4.3,1786.41,Health,19,10,2014,1,San Diego,La Jolla,9,90,Small,1,226315.7895,0–5 Years
+237,https://www.inc.com/profile/strativia,Strativia,strativia.com,MD,11.1,1781.07,Government Services,152,11,2007,1,"Washington, DC",LARGO,141,1281.82,Medium,8,73026.31579,6–10 Years
+238,https://www.inc.com/profile/clockshark,ClockShark,clockshark.com,CA,3.6,1775.39,Software,25,3,2014,1,Chico,Chico,22,733.33,Small,1,144000,0–5 Years
+239,https://www.inc.com/profile/trifold,TriFold,upcart.com,OH,7.3,1765.68,Manufacturing,6,2,2013,1,"Columbus, OH",Columbus,4,200,Small,2,1216666.667,0–5 Years
+240,https://www.inc.com/profile/energy-ogre,Energy Ogre,energyogre.com,TX,6.3,1763.08,Consumer Products & Services,60,10,2013,1,Houston,Houston,50,500,Medium,2,105000,0–5 Years
+241,https://www.inc.com/profile/d-ott-construction,D. Ott Construction,ww.dottconstruction.com,PA,3.3,1759.15,Construction,5,2,2015,1,"Lancaster, PA",Lancaster,3,150,Small,0,660000,0–5 Years
+242,https://www.inc.com/profile/medisuite,Medisuite,medisuite.com,NC,2.1,1738.17,Health,12,2,2013,1,"Raleigh, NC",Cary,10,500,Small,2,175000,0–5 Years
+243,https://www.inc.com/profile/myta-technologies,MYTA Technologies,myta.com,MD,5.3,1733.94,Human Resources,40,10,2014,1,"Washington, DC",Bethesda,30,300,Small,1,132500,0–5 Years
+244,https://www.inc.com/profile/deal-partners,Deal Partners,http://dealpartners.com,FL,26.3,1732.63,Consumer Products & Services,21,5,2012,3,Miami,Doral,16,320,Small,3,1252380.952,0–5 Years
+245,https://www.inc.com/profile/tier4-group,Tier4 Group,http://tier4group.com,GA,4.6,1729.4,Business Products & Services,0,3,2010,1,Atlanta,Atlanta,-3,-100,Small,5,inf,0–5 Years
+246,https://www.inc.com/profile/ies,IES,iescombustors.com,CO,13.4,1726.76,Manufacturing,25,4,2014,1,LaSalle,LaSalle,21,525,Small,1,536000,0–5 Years
+247,https://www.inc.com/profile/resicap,ResiCap,http://resicap.com,GA,467.4,1723.86,Real Estate,900,75,2010,2,Atlanta,Atlanta,825,1100,Large,5,519333.3333,0–5 Years
+248,https://www.inc.com/profile/transcend-security-solutions,Transcend Security Solutions,transcendsecurity.com,AZ,8.3,1713.46,Security,275,35,2014,1,Phoenix,Phoenix,240,685.71,Large,1,30181.81818,0–5 Years
+249,https://www.inc.com/profile/globaltexusa,GlobalTex USA,http://globaltexusa.com,FL,2.3,1710.24,Business Products & Services,10,2,2015,1,Miami,Miami,8,400,Small,0,230000,0–5 Years
+250,https://www.inc.com/profile/vespa-group,Vespa Group,vespa-group.com,IN,4.4,1702.65,IT System Development,59,6,2014,1,"Indianapolis, IN",Indianapolis,53,883.33,Medium,1,74576.27119,0–5 Years
+251,https://www.inc.com/profile/bridgewater-homes,Bridgewater Homes,bridgewaterhomes.com,CO,46.2,1700.16,Construction,18,4,2015,2,Loveland,Loveland,14,350,Small,0,2566666.667,0–5 Years
+252,https://www.inc.com/profile/park-financial-group,Park Financial Group,parkstatebank.com,MN,7.4,1699.37,Financial Services,35,10,2015,1,Minneapolis,Minneapolis,25,250,Small,0,211428.5714,0–5 Years
+253,https://www.inc.com/profile/chronovo,Chronovo,chronovo.com,MA,3.7,1692.61,Insurance,25,12,2014,1,Boston,Burlington,13,108.33,Small,1,148000,0–5 Years
+254,https://www.inc.com/profile/maverick-media-ventures,Maverick Media Ventures,brightideas.co,ID,3.1,1692.6,Consumer Products & Services,9,2,2014,1,Garden City,Garden City,7,350,Small,1,344444.4444,0–5 Years
+255,https://www.inc.com/profile/kortx,Kortx,http://kortx.io,MI,10.5,1685.86,Advertising & Marketing,20,4,2014,1,Detroit,Royal Oak,16,400,Small,1,525000,0–5 Years
+256,https://www.inc.com/profile/bawla-consulting,Bawla Consulting,bawlainc.com,NY,10.1,1681.62,Human Resources,2,1,2014,1,New York City,Valley Stream,1,100,Small,1,5050000,0–5 Years
+257,https://www.inc.com/profile/pawstruck,Pawstruck,pawstruck.com,CA,8.8,1677.23,Retail,15,3,2014,2,Los Angeles,Long Beach,12,400,Small,1,586666.6667,0–5 Years
+258,https://www.inc.com/profile/blue-raven-solar,Blue Raven Solar,blueravensolar.com,UT,58.8,1672.83,Energy,250,30,2014,1,"Provo-Orem, UT",American Fork,220,733.33,Large,1,235200,0–5 Years
+259,https://www.inc.com/profile/woom-bikes-usa,Woom Bikes USA,http://us.woombikes.com,TX,7.2,1666.49,Consumer Products & Services,25,2,2014,1,Austin,Austin,23,1150,Small,1,288000,0–5 Years
+260,https://www.inc.com/profile/mixt-solutions,Mixt Solutions,mixtsolutions.com,OH,3.7,1661.74,Consumer Products & Services,5,3,2014,1,"Columbus, OH",Plain City,2,66.67,Small,1,740000,0–5 Years
+261,https://www.inc.com/profile/thrivepass,ThrivePass,thrivepass.com,CO,4.2,1654,Health,31,12,2015,1,Denver,Denver,19,158.33,Small,0,135483.871,0–5 Years
+262,https://www.inc.com/profile/premier-health-solutions,Premier Health Solutions,premierhsllc.com,TX,8.5,1653.44,Insurance,29,16,2012,1,Dallas,Frisco,13,81.25,Small,3,293103.4483,0–5 Years
+263,https://www.inc.com/profile/impact-analytics,Impact Analytics,http://impactanalytics.co,MD,4.7,1651.55,Business Products & Services,175,20,2014,2,Baltimore,"Linthicum, MD 21090",155,775,Medium,1,26857.14286,0–5 Years
+264,https://www.inc.com/profile/hemper,Hemper,hemper.co,NY,4.5,1650.64,Consumer Products & Services,18,3,2015,1,New York City,HAUPPAUGE,15,500,Small,0,250000,0–5 Years
+265,https://www.inc.com/profile/intermex,Intermex,intermextransportation.com,CA,2.6,1650.14,Travel & Hospitality,18,3,2015,1,Los Angeles,hacienda heights,15,500,Small,0,144444.4444,0–5 Years
+266,https://www.inc.com/profile/patientbond,PatientBond,patientbond.com,IL,2.2,1648.46,IT System Development,16,1,2011,1,Chicago,Elmhurst,15,1500,Small,4,137500,0–5 Years
+267,https://www.inc.com/profile/ginn-group,Ginn Group,ginngrp.com,WA,71.6,1636.37,Real Estate,49,13,2009,1,Vancouver,Vancouver,36,276.92,Small,6,1461224.49,6–10 Years
+268,https://www.inc.com/profile/pantherx-rare,PANTHERX Rare,http://pantherspecialty.com,PA,726.1,1634.69,Health,164,26,2011,4,"Pittsburgh, PA",Pittsburgh,138,530.77,Medium,4,4427439.024,0–5 Years
+269,https://www.inc.com/profile/factorial-digital,Factorial Digital,factorialdigital.com,SC,2.7,1627.47,Advertising & Marketing,6,1,2015,1,"Charleston, SC",Mount Pleasant,5,500,Small,0,450000,0–5 Years
+270,https://www.inc.com/profile/t-rex-solutions,T-Rex Solutions,trexsolutionsllc.com,MD,259.4,1621.72,Government Services,231,175,1999,4,"Washington, DC",Greenbelt,56,32,Medium,16,1122943.723,Above 10 Years
+271,https://www.inc.com/profile/toops,Toops,toopsllc.com,IL,7.7,1621.35,Retail,12,2,2015,1,Chicago,Evanston,10,500,Small,0,641666.6667,0–5 Years
+272,https://www.inc.com/profile/infusemedia,InfuseMedia,http://infusemedia.com,MA,8.6,1609.49,Advertising & Marketing,375,65,2012,2,Boston,NEWTON CENTER,310,476.92,Large,3,22933.33333,0–5 Years
+273,https://www.inc.com/profile/teachable,Teachable,teachable.com,NY,14,1606.12,Software,81,16,2014,1,New York City,New York,65,406.25,Medium,1,172839.5062,0–5 Years
+274,https://www.inc.com/profile/squadhelpcom,Squadhelp.com,squadhelp.com,IL,3,1600.76,Business Products & Services,10,1,2011,2,Chicago,Hoffman Estates,9,900,Small,4,300000,0–5 Years
+275,https://www.inc.com/profile/take2-consulting,Take2 Consulting,take2it.com,VA,18.4,1600.25,IT Management,106,16,2014,1,"Washington, DC",Vienna,90,562.5,Medium,1,173584.9057,0–5 Years
+276,https://www.inc.com/profile/epion-health,Epion Health,epionhealth.com,NJ,4.1,1599.47,Software,20,15,2011,1,New York City,Hoboken,5,33.33,Small,4,205000,0–5 Years
+277,https://www.inc.com/profile/gotcha-media-holdings,Gotcha Media Holdings,ridegotcha.com,SC,8.4,1572.05,Logistics & Transportation,81,15,2009,2,"Charleston, SC",Charleston,66,440,Medium,6,103703.7037,6–10 Years
+278,https://www.inc.com/profile/kyzen-consulting-services,Kyzen Consulting Services,kyzencs.com,MD,5.5,1569.6,Government Services,22,3,1999,4,"Washington, DC",Gaithersburg,19,633.33,Small,16,250000,Above 10 Years
+279,https://www.inc.com/profile/checkedup,CheckedUp,checkedup.com,NY,5.2,1567.79,Health,45,5,2012,2,New York City,New York,40,800,Small,3,115555.5556,0–5 Years
+280,https://www.inc.com/profile/cultivate-advisors,Cultivate Advisors,http://cultivateadvisors.com,IL,3.4,1558.28,Business Products & Services,32,1,2013,1,Chicago,Chicago,31,3100,Small,2,106250,0–5 Years
+281,https://www.inc.com/profile/advisors-education,Advisors Education,http://advisorseducation.com,FL,2.3,1554.44,Education,9,2,2011,1,"Jacksonville, FL",Jacksonville,7,350,Small,4,255555.5556,0–5 Years
+282,https://www.inc.com/profile/recleim,Recleim,recleim.com,GA,40.9,1553.75,Environmental Services,323,47,2012,3,Atlanta,Atlanta,276,587.23,Large,3,126625.387,0–5 Years
+283,https://www.inc.com/profile/maddox-industrial-transformer,Maddox Industrial Transformer,http://maddoxtransformer.com,SC,13.7,1553.36,Manufacturing,23,5,2015,1,Simpsonville,Simpsonville,18,360,Small,0,595652.1739,0–5 Years
+284,https://www.inc.com/profile/mako-medical-laboratories,Mako Medical Laboratories,makomedical.com,NC,93.9,1549.38,Health,502,65,2014,1,"Raleigh, NC",Raleigh,437,672.31,Large,1,187051.7928,0–5 Years
+285,https://www.inc.com/profile/alert-media,Alert Media,alertmedia.com,TX,4.9,1549.28,Software,73,21,2013,1,Austin,Austin,52,247.62,Medium,2,67123.28767,0–5 Years
+286,https://www.inc.com/profile/southern-veterinary-partners,Southern Veterinary Partners,svp.vet,AL,113.5,1545.26,Health,1500,500,2014,2,"Birmingham, AL",Birmimgham,1000,200,Large,1,75666.66667,0–5 Years
+287,https://www.inc.com/profile/flexicrew-technical-services,Flexicrew Technical Services,flexicrewtech.com,LA,2.7,1541.28,Human Resources,11,2,2015,1,Metairie,Metairie,9,450,Small,0,245454.5455,0–5 Years
+288,https://www.inc.com/profile/texas-beauty-labs,Texas Beauty Labs,texasbeautylabs.com,TX,9.1,1539.24,Manufacturing,88,15,2007,2,Austin,Austin,73,486.67,Medium,8,103409.0909,6–10 Years
+289,https://www.inc.com/profile/scientistcom,Scientist.com,scientist.com,CA,97.4,1522.15,Health,60,12,2007,3,San Diego,Solana Beach,48,400,Medium,8,1623333.333,6–10 Years
+290,https://www.inc.com/profile/hennessey-consulting,Hennessey Consulting,jasonhennessey.com,CA,2.6,1521.86,Advertising & Marketing,15,2,2015,1,Los Angeles,Valencia,13,650,Small,0,173333.3333,0–5 Years
+291,https://www.inc.com/profile/meleeo,Meleeo,meleeo.com,FL,6.1,1519.34,Business Products & Services,60,5,2015,1,Tampa,Odessa,55,1100,Medium,0,101666.6667,0–5 Years
+292,https://www.inc.com/profile/sna-international,SNA International,sna-intl.com,VA,9.8,1517.82,Government Services,175,4,2002,1,"Washington, DC",Alexandria,171,4275,Medium,13,56000,Above 10 Years
+293,https://www.inc.com/profile/staymobile,Staymobile,staymobile.com,GA,20.8,1515.74,Retail,90,35,2014,1,Atlanta,Marietta,55,157.14,Medium,1,231111.1111,0–5 Years
+294,https://www.inc.com/profile/amani-enterprises,Amani Enterprises,tissini.com,FL,3.6,1515.61,Retail,63,6,2015,1,Miami,Miami,57,950,Medium,0,57142.85714,0–5 Years
+295,https://www.inc.com/profile/privateer-it,Privateer IT,privateerit.com,FL,2.2,1514.68,IT Management,22,3,2014,1,Melbourne,Melbourne,19,633.33,Small,1,100000,0–5 Years
+296,https://www.inc.com/profile/discussio,Discuss.io,http://discuss.io,WA,6.3,1508.65,Software,44,15,2012,2,Seattle,Seattle,29,193.33,Small,3,143181.8182,0–5 Years
+297,https://www.inc.com/profile/dollar-fulfillment,Dollar Fulfillment,dollarfulfillment.com,ID,9.1,1507.97,Logistics & Transportation,15,5,2008,3,Hayden,Hayden,10,200,Small,7,606666.6667,6–10 Years
+298,https://www.inc.com/profile/domino-data-lab,Domino Data Lab,dominodatalab.com,CA,11.8,1505.64,Software,102,12,2013,1,San Francisco,San Francisco,90,750,Medium,2,115686.2745,0–5 Years
+299,https://www.inc.com/profile/lyfe-marketing,LYFE Marketing,http://lyfemarketing.com,GA,3.2,1501.1,Advertising & Marketing,35,3,2011,1,Atlanta,Atlanta,32,1066.67,Small,4,91428.57143,0–5 Years
+300,https://www.inc.com/profile/alivi,Alivi,http://alivi.com,FL,14.1,1496.37,Health,100,10,2012,1,Miami,doral,90,900,Medium,3,141000,0–5 Years
+301,https://www.inc.com/profile/eetech-media,EETech Media,eetech.com,ID,6.6,1493.2,Media,20,4,2015,1,Boise,Boise,16,400,Small,0,330000,0–5 Years
+302,https://www.inc.com/profile/gravis-law,Gravis Law,gravislaw.com,WA,2.7,1488.41,Consumer Products & Services,46,2,2014,1,Richland,Richland,44,2200,Small,1,58695.65217,0–5 Years
+303,https://www.inc.com/profile/cousins-logistics,Cousins Logistics,cousinslogistics.com,FL,47.1,1487.41,Logistics & Transportation,55,6,2014,1,Miami,Boca Raton,49,816.67,Medium,1,856363.6364,0–5 Years
+304,https://www.inc.com/profile/position2,Position2,position2.com,CA,65.2,1482.07,Advertising & Marketing,203,140,2005,2,San Jose,Santa Clara,63,45,Medium,10,321182.266,6–10 Years
+305,https://www.inc.com/profile/bentobox-cms,BentoBox CMS,getbento.com,NY,4.4,1480.28,Software,80,9,2013,1,New York City,New York,71,788.89,Medium,2,55000,0–5 Years
+306,https://www.inc.com/profile/symbol-health-solutions,Symbol Health Solutions,symbolhealth.com,AL,76.9,1472.39,Health,60,30,2012,1,Mobile,Mobile,30,100,Medium,3,1281666.667,0–5 Years
+307,https://www.inc.com/profile/crisp-video-group,Crisp Video Group,crispvideo.com,GA,16.1,1469.78,Advertising & Marketing,36,6,2012,3,Atlanta,Atlanta,30,500,Small,3,447222.2222,0–5 Years
+308,https://www.inc.com/profile/sand-cloud,Sand Cloud,http://sandcloud.com,CA,6.8,1469.35,Retail,19,3,2014,1,San Diego,San Diego,16,533.33,Small,1,357894.7368,0–5 Years
+309,https://www.inc.com/profile/wrapify,Wrapify,wrapify.com,CA,2.9,1468.38,Advertising & Marketing,18,8,2015,1,San Diego,Solana Bech,10,125,Small,0,161111.1111,0–5 Years
+310,https://www.inc.com/profile/iuvo-logistics,Iuvo Logistics,iuvologistics.com,OH,3.4,1467.17,Logistics & Transportation,23,2,2012,1,Dayton,Dayton,21,1050,Small,3,147826.087,0–5 Years
+311,https://www.inc.com/profile/group-10-capital,Group 10 Capital,10llc.com,FL,5.8,1464.46,Real Estate,6,2,2014,1,Miami,Miami Beach,4,200,Small,1,966666.6667,0–5 Years
+312,https://www.inc.com/profile/basemakers,Basemakers,basemakers.com,CA,3.2,1460.68,Business Products & Services,55,4,2015,1,Los Angeles,Venice,51,1275,Medium,0,58181.81818,0–5 Years
+313,https://www.inc.com/profile/tossware,Tossware,http://tossware.com,CA,5.3,1458.09,Consumer Products & Services,15,4,2014,1,"Inland Empire, CA",Fontana,11,275,Small,1,353333.3333,0–5 Years
+314,https://www.inc.com/profile/360ia,360ia,360ia.com,LA,2,1455.28,Software,41,15,2015,1,Lafayette,Lafayette,26,173.33,Small,0,48780.4878,0–5 Years
+315,https://www.inc.com/profile/nextgen-leads,NextGen Leads,nextgenleads.com,CA,35.7,1454.4,Advertising & Marketing,70,5,2014,1,San Diego,San Diego,65,1300,Medium,1,510000,0–5 Years
+316,https://www.inc.com/profile/coltoncooper,ColtonCooper,digbytrans.com,CO,9.9,1449.12,Logistics & Transportation,11,1,2015,1,Denver,Denver,10,1000,Small,0,900000,0–5 Years
+317,https://www.inc.com/profile/handle,HANDLE,http://handleglobal.com,KY,2.3,1447.51,Health,20,5,2015,1,"Louisville/Jefferson County, KY-IN",Prospect,15,300,Small,0,115000,0–5 Years
+318,https://www.inc.com/profile/bestself-ventures,BestSelf Ventures,bestself.co,TX,5.8,1444.56,Consumer Products & Services,10,2,2015,1,Austin,Austin,8,400,Small,0,580000,0–5 Years
+319,https://www.inc.com/profile/tazkai,TazKai,nrsng.com,TX,2.8,1444.15,Education,15,2,2014,1,Dallas,ALLEN,13,650,Small,1,186666.6667,0–5 Years
+320,https://www.inc.com/profile/cumulus-networks,Cumulus Networks,cumulusnetworks.com,CA,25.1,1437.61,Software,179,131,2010,1,San Jose,Mountain View,48,36.64,Medium,5,140223.4637,0–5 Years
+321,https://www.inc.com/profile/opploans,OppLoans,opploans.com,IL,134.2,1434.95,Financial Services,308,27,2012,4,Chicago,Chicago,281,1040.74,Large,3,435714.2857,0–5 Years
+322,https://www.inc.com/profile/common-thread-collective,Common Thread Collective,commonthreadco.com,CA,5,1433.98,Advertising & Marketing,47,8,2014,2,Los Angeles,Newport Beach,39,487.5,Small,1,106382.9787,0–5 Years
+323,https://www.inc.com/profile/cloudbeds,Cloudbeds,cloudbeds.com,CA,8.2,1426.49,Software,203,52,2012,2,San Diego,San Diego,151,290.38,Medium,3,40394.08867,0–5 Years
+324,https://www.inc.com/profile/vested-metals-international,Vested Metals International,vestedmetals.net,FL,2.6,1423.69,Manufacturing,6,1,2014,1,"Jacksonville, FL",Saint Augustine,5,500,Small,1,433333.3333,0–5 Years
+325,https://www.inc.com/profile/platt-cheema-richmond-pllc,Platt Cheema Richmond,http://pcrfirm.com,TX,2.3,1423.49,Real Estate,14,3,2015,1,Dallas,Dallas,11,366.67,Small,0,164285.7143,0–5 Years
+326,https://www.inc.com/profile/revelry,Revelry,shoprevelry.com,TX,3.8,1423.41,Retail,10,2,2009,1,Austin,Austin,8,400,Small,6,380000,6–10 Years
+327,https://www.inc.com/profile/qos-networks,QOS Networks,qosnet.com,CA,6.8,1417.89,IT Management,24,8,2012,1,Los Angeles,Irvine,16,200,Small,3,283333.3333,0–5 Years
+328,https://www.inc.com/profile/koddi,Koddi,koddi.com,TX,27.3,1408.64,Software,101,13,2013,2,Dallas,Fort Worth,88,676.92,Medium,2,270297.0297,0–5 Years
+329,https://www.inc.com/profile/change-media-group,Change Media Group,changemediagroup.com,MI,9.7,1408.08,Advertising & Marketing,18,5,2012,1,Lansing,Lansing,13,260,Small,3,538888.8889,0–5 Years
+330,https://www.inc.com/profile/bldg-25,BLDG-25,bldg-25.com,NC,2.9,1407.58,Software,25,1,2015,1,"Raleigh, NC",Raleigh,24,2400,Small,0,116000,0–5 Years
+331,https://www.inc.com/profile/dropoff,Dropoff,dropoff.com,TX,16.2,1405.92,Logistics & Transportation,84,22,2014,1,Austin,Austin,62,281.82,Medium,1,192857.1429,0–5 Years
+332,https://www.inc.com/profile/modavate,Modavate,modavate.com,GA,2,1405.06,Advertising & Marketing,12,2,2007,1,Atlanta,Buford,10,500,Small,8,166666.6667,6–10 Years
+333,https://www.inc.com/profile/arcus-financial-intelligence,Arcus Financial Intelligence,arcusfi.com,NY,3.4,1404,Financial Services,54,20,2013,1,New York City,New York,34,170,Medium,2,62962.96296,0–5 Years
+334,https://www.inc.com/profile/digital-resource,Digital Resource,yourdigitalresource.com,FL,4,1399.72,Advertising & Marketing,38,1,2014,2,Miami,West Palm Beach,37,3700,Small,1,105263.1579,0–5 Years
+335,https://www.inc.com/profile/girikon,Girikon,girikon.com,AZ,2.8,1398.26,IT Management,140,35,2015,1,Phoenix,Phoenix,105,300,Medium,0,20000,0–5 Years
+336,https://www.inc.com/profile/liberty-rent-guarantee,Liberty Rent Guarantee,libertyrent.com,AL,2.2,1386.45,Real Estate,12,4,2014,1,Fairhope,Fairhope,8,200,Small,1,183333.3333,0–5 Years
+337,https://www.inc.com/profile/inflowlogistics,Inflowlogistics,inflow-ns.com,TX,3.7,1385.45,Government Services,41,7,2014,1,"San Antonio, TX",San Antonio,34,485.71,Small,1,90243.90244,0–5 Years
+338,https://www.inc.com/profile/pymetrics,Pymetrics,pymetrics.com,NY,5.7,1379.71,Software,80,31,2013,1,New York City,New York,49,158.06,Medium,2,71250,0–5 Years
+339,https://www.inc.com/profile/madewell-construction,Madewell Construction,madewell-construction.com,TX,6,1373.01,Construction,9,1,2014,1,Lubbock,Lubbock,8,800,Small,1,666666.6667,0–5 Years
+340,https://www.inc.com/profile/power-target,Power Target,electricityrates.com,MD,2,1359,Energy,5,2,2011,1,Baltimore,Millersville,3,150,Small,4,400000,0–5 Years
+341,https://www.inc.com/profile/bidwise,Bidwise,http://bidwise.com,PR,2.2,1354.31,Advertising & Marketing,7,4,2015,1,San Juan,San Juan,3,75,Small,0,314285.7143,0–5 Years
+342,https://www.inc.com/profile/wavicle-data-solutions,Wavicle Data Solutions,wavicledata.com,IL,12.4,1347.24,IT System Development,171,7,2013,1,Chicago,Chicago,164,2342.86,Medium,2,72514.61988,0–5 Years
+343,https://www.inc.com/profile/red-seat-ventures,Red Seat Ventures,redseatventures.com,NY,4.3,1344.26,Media,25,3,2015,1,New York City,New York,22,733.33,Small,0,172000,0–5 Years
+344,https://www.inc.com/profile/recommerce,reCommerce,recommercebrands.com,FL,33.8,1332.99,Advertising & Marketing,60,5,2013,2,Miami,Deerfield Beach,55,1100,Medium,2,563333.3333,0–5 Years
+345,https://www.inc.com/profile/design-pickle,Design Pickle,designpickle.com,AZ,7.2,1329.18,Business Products & Services,230,16,2015,1,Phoenix,Scottsdale,214,1337.5,Medium,0,31304.34783,0–5 Years
+346,https://www.inc.com/profile/hyperice,Hyperice,http://hyperice.com,CA,64.3,1327.81,Consumer Products & Services,21,8,2010,4,Los Angeles,Irvine,13,162.5,Small,5,3061904.762,0–5 Years
+347,https://www.inc.com/profile/synfiny-advisors,Synfiny Advisors,synfiny.com,OH,2.7,1326.3,Business Products & Services,2,2,2014,1,Cincinnati,Cincinnati,0,0,Small,1,1350000,0–5 Years
+348,https://www.inc.com/profile/mns1-express,MNS1 Express,mns1express.com,IL,29.1,1323.26,Logistics & Transportation,15,3,2011,1,Chicago,Bolingbrook,12,400,Small,4,1940000,0–5 Years
+349,https://www.inc.com/profile/tomboyx,TomboyX,tomboyx.com,WA,10.4,1316.57,Consumer Products & Services,18,4,2013,2,Seattle,Seattle,14,350,Small,2,577777.7778,0–5 Years
+350,https://www.inc.com/profile/shoppad,ShopPad,theshoppad.com,CA,2.3,1313.95,Software,19,4,2012,1,San Francisco,Oakland,15,375,Small,3,121052.6316,0–5 Years
+351,https://www.inc.com/profile/carta,Carta,http://carta.com,CA,35.3,1301.76,Financial Services,400,55,2012,2,San Francisco,San Francisco,345,627.27,Large,3,88250,0–5 Years
+352,https://www.inc.com/profile/snacknation,SnackNation,http://snacknation.com,CA,24.2,1293.01,Food & Beverage,166,37,2014,2,Los Angeles,Culver City,129,348.65,Medium,1,145783.1325,0–5 Years
+353,https://www.inc.com/profile/staffing-as-a-mission,Staffing as a Mission,staffingmission.com,TN,5.7,1291.14,Business Products & Services,15,7,2014,1,Nashville,Brentwood,8,114.29,Small,1,380000,0–5 Years
+354,https://www.inc.com/profile/azure-knowledge,Azure Knowledge,azureknowledge.com,NJ,19.7,1287.53,Business Products & Services,185,32,2010,2,New York City,Piscataway,153,478.12,Medium,5,106486.4865,0–5 Years
+355,https://www.inc.com/profile/element78-partners,Element78 Partners,e78advisors.com,IL,2.9,1282.63,Financial Services,16,2,2015,1,Chicago,Oak Brook,14,700,Small,0,181250,0–5 Years
+356,https://www.inc.com/profile/invibe-labs,inVibe Labs,invibe.co,CA,2.3,1281.69,Business Products & Services,8,3,2013,1,Los Angeles,Costa Mesa,5,166.67,Small,2,287500,0–5 Years
+357,https://www.inc.com/profile/simplenexus,SimpleNexus,http://simplenexus.com,UT,8,1279.32,Software,100,7,2014,2,"Provo-Orem, UT",Lehi,93,1328.57,Medium,1,80000,0–5 Years
+358,https://www.inc.com/profile/the-language-group,The Language Group,thelanguagegroup.com,VA,8.1,1278.55,Business Products & Services,27,3,1999,3,Virginia Beach,Virginia Beach,24,800,Small,16,300000,Above 10 Years
+359,https://www.inc.com/profile/green-bits,Green Bits,greenbits.com,CA,5.9,1275.59,Software,80,5,2014,1,San Jose,San Jose,75,1500,Medium,1,73750,0–5 Years
+360,https://www.inc.com/profile/m2m-in-motion,M2M In Motion,m2minmotion.com,IL,2.1,1270.67,Software,17,2,2013,1,Chicago,Lombard,15,750,Small,2,123529.4118,0–5 Years
+361,https://www.inc.com/profile/adficient,AdFicient,adficient.com,MO,5.9,1264.91,Advertising & Marketing,3,4,2009,1,"St. Louis, MO-IL",Saint Louis,-1,-25,Small,6,1966666.667,6–10 Years
+362,https://www.inc.com/profile/raddish-kids,Raddish Kids,raddishkids.com,CA,8.8,1255.03,Consumer Products & Services,17,3,2014,1,Los Angeles,Redondo Beach,14,466.67,Small,1,517647.0588,0–5 Years
+363,https://www.inc.com/profile/titan-mechanical,Titan Mechanical,titanmech.net,VA,16,1254.75,Construction,32,3,2014,1,"Washington, DC",manassas,29,966.67,Small,1,500000,0–5 Years
+364,https://www.inc.com/profile/nanamacs-clothing,NanaMacs Clothing,nanamacs.com,ID,12,1252.82,Retail,29,19,2012,3,Post Falls,Post Falls,10,52.63,Small,3,413793.1034,0–5 Years
+365,https://www.inc.com/profile/perimeter-security-partners,Perimeter Security Partners,perimetersecuritypartners.com,TN,15.3,1248.11,Security,22,7,2014,1,Nashville,Brentwood,15,214.29,Small,1,695454.5455,0–5 Years
+366,https://www.inc.com/profile/lync-logistics,LYNC Logistics,lynclogistics.com,TN,28,1247.51,Logistics & Transportation,36,4,2014,1,Chattanooga,Chattanooga,32,800,Small,1,777777.7778,0–5 Years
+367,https://www.inc.com/profile/cox-residential,Cox Residential,coxres.com,IN,2.6,1240.6,Construction,11,2,2013,1,"Indianapolis, IN",Carmel,9,450,Small,2,236363.6364,0–5 Years
+368,https://www.inc.com/profile/stealth-iss-group,Stealth-ISS Group,stealth-iss.com,VA,2.6,1240.56,IT Management,19,3,2002,2,"Washington, DC",Arlington,16,533.33,Small,13,136842.1053,Above 10 Years
+369,https://www.inc.com/profile/seeq-corporation,Seeq Corporation,seeq.com,WA,3.1,1240.31,Software,85,20,2013,1,Seattle,Seattle,65,325,Medium,2,36470.58824,0–5 Years
+370,https://www.inc.com/profile/m7-services,M7 Services,m7services.com,TX,4.7,1237.93,IT Management,30,3,2014,1,Houston,Houston,27,900,Small,1,156666.6667,0–5 Years
+371,https://www.inc.com/profile/healthy-human,Healthy Human,healthyhumanlife.com,SC,2.7,1232.45,Retail,6,3,2015,1,"Charleston, SC",Mt Pleasant,3,100,Small,0,450000,0–5 Years
+372,https://www.inc.com/profile/professional-hair-labs,Professional Hair Labs,prohairlabs.com,FL,6.4,1231.44,Health,10,3,1994,1,Tampa,Zephyrhills,7,233.33,Small,21,640000,Above 10 Years
+373,https://www.inc.com/profile/strategic-alliance-business-group,Strategic Alliance Business Group,sabg.com,VA,21.7,1228.93,Government Services,134,13,2005,2,"Washington, DC",Arlington,121,930.77,Medium,10,161940.2985,6–10 Years
+374,https://www.inc.com/profile/Synup,Synup,http://synup.com,NY,3.4,1226.62,IT Management,121,16,2014,1,New York City,New York,105,656.25,Medium,1,28099.17355,0–5 Years
+375,https://www.inc.com/profile/first-stop-health,First Stop Health,fshealth.com,IL,4,1226.24,Health,24,12,2011,2,Chicago,Chicago,12,100,Small,4,166666.6667,0–5 Years
+376,https://www.inc.com/profile/boxycharm,BoxyCharm,boxycharm.com,FL,137.2,1225.55,Consumer Products & Services,90,8,2013,2,Miami,Pembroke Pines,82,1025,Medium,2,1524444.444,0–5 Years
+377,https://www.inc.com/profile/wearme-pro,WearMe Pro,wearmepro.com,AZ,3.8,1220.81,Retail,6,1,2014,1,Phoenix,Tempe,5,500,Small,1,633333.3333,0–5 Years
+378,https://www.inc.com/profile/vidoori,Vidoori,vidoori.com,MD,31.4,1220.19,IT Management,131,12,2008,1,"Washington, DC",Silver Spring,119,991.67,Medium,7,239694.6565,6–10 Years
+379,https://www.inc.com/profile/stackify,Stackify,stackify.com,KS,2,1216.35,Software,45,12,2012,1,"Kansas City, MO-KS",Leawood,33,275,Small,3,44444.44444,0–5 Years
+380,https://www.inc.com/profile/xy---the-persistent-company,XY - The Persistent Company,xy.company,CA,21.6,1210.22,Software,75,12,2012,1,San Diego,San Diego,63,525,Medium,3,288000,0–5 Years
+381,https://www.inc.com/profile/dental-intelligence,Dental Intelligence,http://dentalintel.com,UT,7,1203.76,Health,84,14,2015,1,"Provo-Orem, UT",Pleasant Grove,70,500,Medium,0,83333.33333,0–5 Years
+382,https://www.inc.com/profile/powerinbox,PowerInbox,powerinbox.com,NY,30.8,1202.67,Software,41,28,2011,2,New York City,New York,13,46.43,Small,4,751219.5122,0–5 Years
+383,https://www.inc.com/profile/simpletire,SimpleTire,simpletire.com,PA,255.9,1200.91,Retail,56,10,2012,2,Philadelphia,Trevose,46,460,Medium,3,4569642.857,0–5 Years
+384,https://www.inc.com/profile/creative-state-marketing,Creative State Marketing,creativestatex.com,FL,6.2,1197.59,Advertising & Marketing,21,2,2014,1,Miami,Miami,19,950,Small,1,295238.0952,0–5 Years
+385,https://www.inc.com/profile/urbanstems,UrbanStems,urbanstems.com,DC,12.8,1192.41,Consumer Products & Services,90,19,2014,1,"Washington, DC",Washington,71,373.68,Medium,1,142222.2222,0–5 Years
+386,https://www.inc.com/profile/gcubed-enterprises,GCubed Enterprises,gcubedinc.com,VA,5.1,1191.91,IT Management,47,6,2014,1,"Washington, DC",Stafford,41,683.33,Small,1,108510.6383,0–5 Years
+387,https://www.inc.com/profile/videoamp,VideoAmp,http://videoamp.com,CA,19.5,1190.65,Advertising & Marketing,122,16,2014,1,Los Angeles,Los Angeles,106,662.5,Medium,1,159836.0656,0–5 Years
+388,https://www.inc.com/profile/sweetscience-marketing,SweetScience Marketing,gosweetscience.com,PA,2.5,1186.61,Advertising & Marketing,12,2,2014,1,Philadelphia,King of Prussia,10,500,Small,1,208333.3333,0–5 Years
+389,https://www.inc.com/profile/rentedcom,Rented.com,rented.com,GA,4.8,1183.91,Travel & Hospitality,28,16,2013,1,Atlanta,Atlanta,12,75,Small,2,171428.5714,0–5 Years
+390,https://www.inc.com/profile/lakarya,Lakarya,lakarya.com,VA,2.9,1180.31,IT System Development,11,2,2013,1,"Washington, DC",Sterling,9,450,Small,2,263636.3636,0–5 Years
+391,https://www.inc.com/profile/cosset,Cosset,cossetbathandbody.com,UT,4.6,1168.88,Retail,70,5,2014,1,Salt Lake City,South Salt Lake,65,1300,Medium,1,65714.28571,0–5 Years
+392,https://www.inc.com/profile/tomahawk-strategic-solutions,Tomahawk Strategic Solutions,tomahawkstrategicsolutions.com,TN,2.8,1168.28,Security,12,2,2014,1,Nashville,Nashville,10,500,Small,1,233333.3333,0–5 Years
+393,https://www.inc.com/profile/della-infotech,Della Infotech,dellainfotech.com,NJ,4.7,1165.54,IT Management,115,15,2012,2,Hamilton,Hamilton,100,666.67,Medium,3,40869.56522,0–5 Years
+394,https://www.inc.com/profile/realvolve,Realvolve,realvolve.com,CO,2,1163.96,Software,24,2,2014,1,Denver,Greenwood Village,22,1100,Small,1,83333.33333,0–5 Years
+395,https://www.inc.com/profile/edvenswa-tech,Edvenswa Tech,edvenswa.com,CA,2.9,1156.83,Software,52,10,2012,1,San Jose,San Jose,42,420,Medium,3,55769.23077,0–5 Years
+396,https://www.inc.com/profile/upnest,UpNest,upnest.com,CA,10.1,1152.13,Real Estate,30,12,2013,2,San Francisco,Burlingame,18,150,Small,2,336666.6667,0–5 Years
+397,https://www.inc.com/profile/double-wood,Double Wood,doublewoodsupplements.com,PA,6.9,1147.21,Health,3,2,2013,1,Philadelphia,Philadelphia,1,50,Small,2,2300000,0–5 Years
+398,https://www.inc.com/profile/van-law-firm,Van Law Firm,vanlawfirm.com,NV,3,1146.99,Consumer Products & Services,25,4,2012,1,"Las Vegas, NV",Las Vegas,21,525,Small,3,120000,0–5 Years
+399,https://www.inc.com/profile/mobile-text-alerts,Mobile Text Alerts,mobile-text-alerts.com,NE,2.8,1144.34,Software,7,2,2012,1,Lincoln,Lincoln,5,250,Small,3,400000,0–5 Years
+400,https://www.inc.com/profile/apogee-stores,Apogee Stores,golfcarttiresupply.com,IL,5.4,1141.94,Retail,5,1,2014,1,Chicago,Chicago,4,400,Small,1,1080000,0–5 Years
+401,https://www.inc.com/profile/new-credit-america,New Credit America,http://newcreditamerica.com,OR,15.4,1141.87,Financial Services,42,6,2014,1,Portland,Portland,36,600,Small,1,366666.6667,0–5 Years
+402,https://www.inc.com/profile/bore-tech-utilities,Bore Tech Utilities,http://bore-tech.net,FL,9.5,1137.23,Government Services,52,8,2011,2,Miami,Miami,44,550,Medium,4,182692.3077,0–5 Years
+403,https://www.inc.com/profile/anna-marie-events,Anna Marie Events,http://annamarieevents.com,CA,4.1,1135.56,Business Products & Services,4,1,2012,1,San Francisco,San Francisco,3,300,Small,3,1025000,0–5 Years
+404,https://www.inc.com/profile/pattern,Pattern,http://pattern.com,UT,211.2,1133.42,Advertising & Marketing,118,19,2013,1,"Provo-Orem, UT",Lehi,99,521.05,Medium,2,1789830.508,0–5 Years
+405,https://www.inc.com/profile/advanced-operations-partners,Advanced Operations Partners,advancedoperationspartners.com,TX,24,1130.94,Business Products & Services,50,12,2005,1,"San Antonio, TX",San Antonio,38,316.67,Medium,10,480000,6–10 Years
+406,https://www.inc.com/profile/newline-interactive,Newline Interactive,newline-interactive.com,TX,32.7,1127.94,Computer Hardware,37,10,2012,3,Dallas,Plano,27,270,Small,3,883783.7838,0–5 Years
+407,https://www.inc.com/profile/grooveco,Groove.co,http://groove.co,CA,3.6,1120.93,Software,32,6,2014,1,San Francisco,San Francisco,26,433.33,Small,1,112500,0–5 Years
+408,https://www.inc.com/profile/g2,G2,g2.com,IL,21.5,1115.24,Software,255,55,2012,1,Chicago,Chicago,200,363.64,Large,3,84313.72549,0–5 Years
+409,https://www.inc.com/profile/lean-staffing-solutions,Lean Staffing Solutions,leanstaffing.com,FL,5.6,1113.49,Human Resources,10,2,2008,1,Miami,Coral Springs,8,400,Small,7,560000,6–10 Years
+410,https://www.inc.com/profile/vigene-biosciences,Vigene Biosciences,vigenebio.com,MD,11.6,1111.79,Health,55,5,2012,2,"Washington, DC",Rockville,50,1000,Medium,3,210909.0909,0–5 Years
+411,https://www.inc.com/profile/pitisci-associates,Pitisci & Associates,tampastaff.com,FL,8.8,1110.72,IT Management,7,6,2014,1,Tampa,Tampa,1,16.67,Small,1,1257142.857,0–5 Years
+412,https://www.inc.com/profile/coupon-cause-com,CouponCause.com,http://couponcause.com,CA,7.1,1107.67,Advertising & Marketing,7,1,2013,1,Los Angeles,Topanga,6,600,Small,2,1014285.714,0–5 Years
+413,https://www.inc.com/profile/arrive-logistics,Arrive Logistics,arrivelogistics.com,TX,368.6,1107.09,Logistics & Transportation,614,51,2014,1,Austin,Austin,563,1103.92,Large,1,600325.7329,0–5 Years
+414,https://www.inc.com/profile/integrity-cargo-solutions,Integrity Cargo Solutions,shipintegrity.com,CA,5.5,1106.57,Logistics & Transportation,5,4,2012,1,Los Angeles,Cerritos,1,25,Small,3,1100000,0–5 Years
+415,https://www.inc.com/profile/wireless-everywhere,Wireless Everywhere,http://wavewireless.co,DC,2.8,1103.32,Telecommunications,23,4,2015,1,"Washington, DC",Washington,19,475,Small,0,121739.1304,0–5 Years
+416,https://www.inc.com/profile/audienceX,AudienceX,http://audiencex.com,CA,14,1103.01,Advertising & Marketing,80,12,2008,1,Los Angeles,Marina Del Rey,68,566.67,Medium,7,175000,6–10 Years
+417,https://www.inc.com/profile/soci,SOCi,meetsoci.com,CA,8.8,1097.39,Advertising & Marketing,113,23,2010,2,San Diego,San Diego,90,391.3,Medium,5,77876.10619,0–5 Years
+418,https://www.inc.com/profile/advanced-architectural-products,Advanced Architectural Products,http://smartcisystems.com,MI,15.8,1095.09,Construction,51,5,2014,1,Allegan,Allegan,46,920,Medium,1,309803.9216,0–5 Years
+419,https://www.inc.com/profile/proper-media,Proper Media,proper.io,CA,35.9,1093.38,Advertising & Marketing,25,8,2014,2,San Diego,San Diego,17,212.5,Small,1,1436000,0–5 Years
+420,https://www.inc.com/profile/dispatch-technologies,Dispatch Technologies,http://dispatch.me,MA,7,1093.35,Business Products & Services,65,10,2012,1,Boston,Boston,55,550,Medium,3,107692.3077,0–5 Years
+421,https://www.inc.com/profile/kisi-security,Kisi Security,getkisi.com,NY,2.8,1093.32,Security,35,3,2012,2,New York City,Brooklyn,32,1066.67,Small,3,80000,0–5 Years
+422,https://www.inc.com/profile/bridgetech,BridgeTech,http://bridge.tech,OR,2,1091.11,IT Management,25,2,2014,1,Portland,Portland,23,1150,Small,1,80000,0–5 Years
+423,https://www.inc.com/profile/boomerang-transportation,Boomerang Transportation,boomerangtrans.com,FL,6.9,1086.48,Logistics & Transportation,8,3,2014,1,Tampa,Tampa,5,166.67,Small,1,862500,0–5 Years
+424,https://www.inc.com/profile/em-technologies,E&M Technologies,eandmtech.com,VA,9.8,1083.18,Government Services,103,35,2005,1,Reston,Reston,68,194.29,Medium,10,95145.63107,6–10 Years
+425,https://www.inc.com/profile/advertise-purple,Advertise Purple,http://advertisepurple.com,CA,6.5,1074.56,Advertising & Marketing,38,3,2012,2,Los Angeles,Santa Monica,35,1166.67,Small,3,171052.6316,0–5 Years
+426,https://www.inc.com/profile/spike-brewing-equipment,Spike Brewing Equipment,spikebrewing.com,WI,5.4,1073.59,Manufacturing,24,4,2011,1,Milwaukee,Milwaukee,20,500,Small,4,225000,0–5 Years
+427,https://www.inc.com/profile/pathway-vet-alliance,Pathway Vet Alliance,pathwayvets.com,TX,374.2,1064.54,Health,4572,398,2003,2,Austin,Austin,4174,1048.74,Large,12,81846.01925,Above 10 Years
+428,https://www.inc.com/profile/baileys-blossoms,Bailey's Blossoms,http://baileysblossoms.com,TX,5.9,1056.28,Retail,24,5,2013,2,Dallas,AURORA,19,380,Small,2,245833.3333,0–5 Years
+429,https://www.inc.com/profile/simple-technology-solutions,Simple Technology Solutions,keepitsts.com,DC,5.2,1052.29,IT System Development,30,15,2013,1,"Washington, DC",Washington,15,100,Small,2,173333.3333,0–5 Years
+430,https://www.inc.com/profile/skyrun-breckenridge,SkyRun Breckenridge,http://breckenridge.skyrun.com,CO,4.3,1047.18,Travel & Hospitality,13,1,2009,1,Breckenridge,Breckenridge,12,1200,Small,6,330769.2308,6–10 Years
+431,https://www.inc.com/profile/clean-juice,Clean Juice,http://cleanjuice.com,NC,4.9,1046.99,Retail,210,20,2015,1,Charlotte,Charlotte,190,950,Medium,0,23333.33333,0–5 Years
+432,https://www.inc.com/profile/ingenius-prep,InGenius Prep,ingeniusprep.com,CT,8.6,1046.81,Education,120,15,2013,2,New Haven,New Haven,105,700,Medium,2,71666.66667,0–5 Years
+433,https://www.inc.com/profile/aysco-technology-integration,Aysco Technology Integration,ayscoinc.com,OH,20.4,1045.7,Security,34,12,1988,1,kent,kent,22,183.33,Small,27,600000,Above 10 Years
+434,https://www.inc.com/profile/kenna-security,Kenna Security,kennasecurity.com,CA,13.2,1044.96,Security,130,20,2011,1,San Francisco,San Francisco,110,550,Medium,4,101538.4615,0–5 Years
+435,https://www.inc.com/profile/carlotz,CarLotz,carlotz.com,VA,38.5,1043.89,Retail,125,50,2011,2,"Richmond, VA",Richmond,75,150,Medium,4,308000,0–5 Years
+436,https://www.inc.com/profile/assured-consulting-solutions,Assured Consulting Solutions,assured-consulting.com,VA,21.3,1043.62,IT Management,50,17,2011,2,"Washington, DC",Reston,33,194.12,Medium,4,426000,0–5 Years
+437,https://www.inc.com/profile/the-garrett-companies,The Garrett Companies,thegarrettco.com,IN,67.8,1043.25,Real Estate,53,12,2009,4,"Indianapolis, IN",Greenwood,41,341.67,Medium,6,1279245.283,6–10 Years
+438,https://www.inc.com/profile/era-transport,Era Transport,goeratransport.com,IL,10.1,1041.76,Logistics & Transportation,80,3,2013,2,Chicago,Chicago,77,2566.67,Medium,2,126250,0–5 Years
+439,https://www.inc.com/profile/m-communications,M-Communications,mcommwireless.com,GA,20.8,1040.19,Telecommunications,19,8,2011,1,Evans,Evans,11,137.5,Small,4,1094736.842,0–5 Years
+440,https://www.inc.com/profile/clickfunnels,ClickFunnels,clickfunnels.com,ID,94.6,1034.84,Software,96,13,2014,2,"Boise City-Nampa, ID",Eagle,83,638.46,Medium,1,985416.6667,0–5 Years
+441,https://www.inc.com/profile/bcm-london,BCM London,bcmlondon.com,GA,2.4,1033.39,Construction,5,1,2007,1,Atlanta,Kennesaw,4,400,Small,8,480000,6–10 Years
+442,https://www.inc.com/profile/uptime,Uptime,http://uptimeenergy.com,CA,15.9,1031.48,Food & Beverage,49,9,1985,2,Los Angeles,Van Nuys,40,444.44,Small,30,324489.7959,Above 10 Years
+443,https://www.inc.com/profile/competitive-range-solutions,Competitive Range Solutions,getcrs.com,IL,12.7,1031.08,IT Management,94,2,2011,1,"St. Louis, MO-IL",Alton,92,4600,Medium,4,135106.383,0–5 Years
+444,https://www.inc.com/profile/real-broker,Real Broker,joinreal.com,NY,8.9,1030.51,Real Estate,9,6,2014,1,New York City,New York,3,50,Small,1,988888.8889,0–5 Years
+445,https://www.inc.com/profile/buhler-commercial,Buhler Commercial,http://buhlercommercial.com,CA,4.1,1022.96,Construction,8,1,2015,1,San Francisco,San Francisco,7,700,Small,0,512500,0–5 Years
+446,https://www.inc.com/profile/trailhead-marketing,Trailhead Marketing,http://trailheadmarketing.com,OR,3,1021.13,Advertising & Marketing,45,4,2013,1,Portland,Portland,41,1025,Small,2,66666.66667,0–5 Years
+447,https://www.inc.com/profile/factor-75,Factor 75,factor75.com,IL,22.3,1018.19,Food & Beverage,18,8,2013,3,Chicago,Batavia,10,125,Small,2,1238888.889,0–5 Years
+448,https://www.inc.com/profile/algolia,Algolia,http://algolia.com,CA,31.4,1014.75,Software,238,43,2012,2,San Francisco,San Francisco,195,453.49,Medium,3,131932.7731,0–5 Years
+449,https://www.inc.com/profile/midway-dental-supply,Midway Dental Supply,midwaydental.com,MI,74.3,1013.11,Health,163,53,1984,4,Detroit,Livonia,110,207.55,Medium,31,455828.2209,Above 10 Years
+450,https://www.inc.com/profile/eaudit,eAudit,eaudit.com,NC,3.9,1006.83,Logistics & Transportation,5,5,2013,1,Emerald Isle,Emerald Isle,0,0,Small,2,780000,0–5 Years
+451,https://www.inc.com/profile/panagora-group,Panagora Group,panagoragroup.net,MD,5.9,1002.48,Government Services,70,6,2010,1,"Washington, DC",Silver Spring,64,1066.67,Medium,5,84285.71429,0–5 Years
+452,https://www.inc.com/profile/mci-lc,MCI,http://mci.world,IA,45.1,1002.05,Business Products & Services,2000,400,2015,1,Iowa City,Iowa City,1600,400,Large,0,22550,0–5 Years
+453,https://www.inc.com/profile/abrams-realty,Abrams Realty,abramshomes.com,VA,2.7,1001.62,Real Estate,45,8,2014,2,Virginia Beach,Virginia Beach,37,462.5,Small,1,60000,0–5 Years
+454,https://www.inc.com/profile/pelican-waste-debris,Pelican Waste & Debris,pelicanwaste.net,LA,18.6,998.03,Environmental Services,180,30,2013,2,Please Select,Please Select,150,500,Medium,2,103333.3333,0–5 Years
+455,https://www.inc.com/profile/gametime,Gametime,gametime.co,CA,159.7,996.02,Consumer Products & Services,77,47,2013,3,San Francisco,San Francisco,30,63.83,Medium,2,2074025.974,0–5 Years
+456,https://www.inc.com/profile/morning-lavender,Morning Lavender,morninglavender.com,CA,4.4,992.66,Retail,45,3,2014,2,Los Angeles,Tustin,42,1400,Small,1,97777.77778,0–5 Years
+457,https://www.inc.com/profile/keypath-education,Keypath Education,keypathedu.com,IL,29.8,987.19,Education,295,52,2014,1,Chicago,Schaumberg,243,467.31,Large,1,101016.9492,0–5 Years
+458,https://www.inc.com/profile/thigo-international,Thigo International,gemorie.com,CA,3.6,987.04,Retail,8,4,2011,1,Los Angeles,SAN GABRIEL,4,100,Small,4,450000,0–5 Years
+459,https://www.inc.com/profile/saved-by-the-dress,Saved By The Dress,savedbythedress.com,FL,11.3,986.36,Retail,20,2,2013,2,Miami,Miami,18,900,Small,2,565000,0–5 Years
+460,https://www.inc.com/profile/starc-systems,Starc Systems,http://starcsystems.com,ME,7.8,983.45,Manufacturing,39,2,2015,1,Brunswick,Brunswick,37,1850,Small,0,200000,0–5 Years
+461,https://www.inc.com/profile/angel-heart-boutique,Angel Heart Boutique,http://angelheartboutique.com,OK,2.8,980.63,Retail,6,2,2015,1,"Oklahoma City, OK",Edmond,4,200,Small,0,466666.6667,0–5 Years
+462,https://www.inc.com/profile/arm-consulting,ARM Consulting,armconsultingonline.com,VA,3.2,976.76,Government Services,15,11,2005,2,"Washington, DC",Leesburg,4,36.36,Small,10,213333.3333,6–10 Years
+463,https://www.inc.com/profile/chacka-marketing,Chacka Marketing,chackamarketing.com,FL,18.8,971.01,Advertising & Marketing,26,15,2009,3,Tampa,Tampa,11,73.33,Small,6,723076.9231,6–10 Years
+464,https://www.inc.com/profile/maplemark-bank,MapleMark Bank,maplemarkbank.com,TX,7.5,967.57,Financial Services,48,6,1909,1,Dallas,Dallas,42,700,Small,106,156250,
+465,https://www.inc.com/profile/vonlane,Vonlane,vonlane.com,TX,14.2,967.27,Logistics & Transportation,103,27,2013,1,Dallas,Dallas,76,281.48,Medium,2,137864.0777,0–5 Years
+466,https://www.inc.com/profile/prosper-group,Prosper Group,http://prospergroupcorp.com,IN,17.4,966.44,Advertising & Marketing,36,13,2006,1,"Indianapolis, IN",Indianapolis,23,176.92,Small,9,483333.3333,6–10 Years
+467,https://www.inc.com/profile/point3-security,Point3 Security,ittakesahuman.com,MD,5.8,966.17,Security,20,4,2014,1,Baltimore,Perry Hall,16,400,Small,1,290000,0–5 Years
+468,https://www.inc.com/profile/directive,Directive,directiveconsulting.com,CA,4.5,965.34,Advertising & Marketing,46,8,2014,1,Los Angeles,Irvine,38,475,Small,1,97826.08696,0–5 Years
+469,https://www.inc.com/profile/alkami-technology,Alkami Technology,alkami.com,TX,52.3,957.66,Software,397,155,2009,3,Dallas,Plano,242,156.13,Large,6,131738.0353,6–10 Years
+470,https://www.inc.com/profile/quickbox-fulfillment,QuickBox Fulfillment,quickbox.com,CO,40,957.06,Logistics & Transportation,170,35,2009,1,Denver,Denver,135,385.71,Medium,6,235294.1176,6–10 Years
+471,https://www.inc.com/profile/sandsrx,SandsRx,sandsrx.com,TX,42.9,956.41,Health,50,16,2013,1,Dallas,Wylie,34,212.5,Medium,2,858000,0–5 Years
+472,https://www.inc.com/profile/the-building-people,The Building People,http://thebuildingpeople.com,VA,11.6,955.4,Real Estate,87,14,2012,2,"Washington, DC",LEESBURG,73,521.43,Medium,3,133333.3333,0–5 Years
+473,https://www.inc.com/profile/the-snapbar,The SnapBar,thesnapbar.com,WA,2,947.21,Business Products & Services,34,4,2012,1,Seattle,Gig Harbor,30,750,Small,3,58823.52941,0–5 Years
+474,https://www.inc.com/profile/fitsmallbusinesscom,FitSmallBusiness.com,fitsmallbusiness.com,NY,7.1,946.61,Advertising & Marketing,77,8,2011,2,New York City,New York,69,862.5,Medium,4,92207.79221,0–5 Years
+475,https://www.inc.com/profile/powerful-professionals,Powerful Professionals,http://powerfulprofessionals.com,GA,2,935.03,Business Products & Services,5,13,2001,1,Atlanta,Alpharetta,-8,-61.54,Small,14,400000,Above 10 Years
+476,https://www.inc.com/profile/probo-medical,Probo Medical,probomedical.com,IN,30.1,926.9,Business Products & Services,80,14,2014,1,"Indianapolis, IN",Fishers,66,471.43,Medium,1,376250,0–5 Years
+477,https://www.inc.com/profile/spotio,Spotio,http://spotio.com,TX,3,924.44,Software,21,3,2014,1,Dallas,Dallas,18,600,Small,1,142857.1429,0–5 Years
+478,https://www.inc.com/profile/prime-meridian-capital-management,Prime Meridian Capital Management,pmifunds.com,CA,7.7,922.5,Financial Services,13,6,2012,2,San Francisco,Walnut Creek,7,116.67,Small,3,592307.6923,0–5 Years
+479,https://www.inc.com/profile/fox-dealer,Fox Dealer,foxdealer.com,CA,22.1,916.1,Advertising & Marketing,65,5,2013,2,Los Angeles,Pasadena,60,1200,Medium,2,340000,0–5 Years
+480,https://www.inc.com/profile/kubikware,Kubikware,http://kubikware.com,FL,2.5,916.07,Software,75,20,2003,1,Miami,Aventura,55,275,Medium,12,33333.33333,Above 10 Years
+481,https://www.inc.com/profile/rocket-referrals,Rocket Referrals,rocketreferrals.com,IA,2.3,913.74,Software,20,3,2013,1,"Des Moines, IA",Des Moines,17,566.67,Small,2,115000,0–5 Years
+482,https://www.inc.com/profile/bonusly,Bonusly,bonus.ly,CO,2.5,912.01,Software,21,10,2013,1,"Boulder, CO",Boulder,11,110,Small,2,119047.619,0–5 Years
+483,https://www.inc.com/profile/trident-transport,Trident Transport,tridenttransport.com,TN,31.3,910.97,Logistics & Transportation,51,6,2013,2,Chattanooga,Chattanooga,45,750,Medium,2,613725.4902,0–5 Years
+484,https://www.inc.com/profile/the-fila-group,The Fila Group,filagroup.com,VA,3.5,904.62,Government Services,20,2,2004,2,"Washington, DC",Arlington,18,900,Small,11,175000,Above 10 Years
+485,https://www.inc.com/profile/seamans-beverage-and-logistics,Seaman's Beverage and Logistics,seamansimports.com,NJ,7.2,904.37,Food & Beverage,8,5,2013,2,New York City,Belleville,3,60,Small,2,900000,0–5 Years
+486,https://www.inc.com/profile/servicetitan,ServiceTitan,servicetitan.com,CA,59.4,903.19,Software,574,85,2012,1,Los Angeles,Glendale,489,575.29,Large,3,103484.3206,0–5 Years
+487,https://www.inc.com/profile/bluewave-solar,BlueWave Solar,http://bluewavesolar.com,MA,78.6,902.2,Energy,90,34,2010,3,Boston,Boston,56,164.71,Medium,5,873333.3333,0–5 Years
+488,https://www.inc.com/profile/resource-financial,Resource Financial,resourcefinancialservices.com,SC,11.4,900.7,Financial Services,61,19,2015,2,"Columbia, SC",Columbia,42,221.05,Medium,0,186885.2459,0–5 Years
+489,https://www.inc.com/profile/saprex,Saprex,saprex.com,NC,5.4,900.46,Manufacturing,7,2,2009,2,Charlotte,Gastonia,5,250,Small,6,771428.5714,6–10 Years
+490,https://www.inc.com/profile/simple-energy,Simple Energy,simpleenergy.com,CO,45.4,896.68,Energy,78,25,2011,2,"Boulder, CO",Boulder,53,212,Medium,4,582051.2821,0–5 Years
+491,https://www.inc.com/profile/new-energy-equity,New Energy Equity,newenergyequity.com,MD,52.4,895.33,Energy,17,5,2013,1,Baltimore,Annapolis,12,240,Small,2,3082352.941,0–5 Years
+492,https://www.inc.com/profile/vedder-holsters,Vedder Holsters,vedderholsters.com,FL,5.4,894.68,Retail,30,6,2012,2,"Orlando, FL",Mount Dora,24,400,Small,3,180000,0–5 Years
+493,https://www.inc.com/profile/flowater,FloWater,myflowater.com,CO,5.3,893.63,Food & Beverage,36,12,2013,1,Denver,Denver,24,200,Small,2,147222.2222,0–5 Years
+494,https://www.inc.com/profile/vaughan-buckley-construction,Vaughan Buckley Construction,vbc.co,PA,18.4,890.89,Construction,28,5,2009,3,Philadelphia,Philadelphia,23,460,Small,6,657142.8571,6–10 Years
+495,https://www.inc.com/profile/acacia-counseling-wellness,Acacia Counseling & Wellness,acaciacw.com,CA,2.2,889.64,Health,37,2,2014,1,Goleta,Goleta,35,1750,Small,1,59459.45946,0–5 Years
+496,https://www.inc.com/profile/every-door-real-estate,Every Door Real Estate,http://everydoorrealestate.com,WA,2.9,886.84,Real Estate,6,2,2015,1,Seattle,Seattle,4,200,Small,0,483333.3333,0–5 Years
+497,https://www.inc.com/profile/thought-logic-consulting,Thought Logic Consulting,thought-logic.com,GA,21.3,871.4,Business Products & Services,97,10,2013,3,Atlanta,Atlanta,87,870,Medium,2,219587.6289,0–5 Years
+498,https://www.inc.com/profile/pbg-consulting,PBG Consulting,pbgconsult.com,VA,5.1,870.55,IT Management,28,2,2010,1,"Washington, DC",Mclean,26,1300,Small,5,182142.8571,0–5 Years
+499,https://www.inc.com/profile/sarvicus,Sarvicus,sarvicus.com,TX,4.9,870.48,Telecommunications,15,2,2010,1,Houston,Houston,13,650,Small,5,326666.6667,0–5 Years
+500,https://www.inc.com/profile/universal-processing,Universal Processing,uprocessing.com,NY,8,869.75,Financial Services,70,45,2003,1,New York City,New York,25,55.56,Medium,12,114285.7143,Above 10 Years
+501,https://www.inc.com/profile/the-apella-group,The Apella Group,helmpartners.com,PA,12.3,868.61,Telecommunications,45,6,2005,1,Philadelphia,Plymouth Meeting,39,650,Small,10,273333.3333,6–10 Years
