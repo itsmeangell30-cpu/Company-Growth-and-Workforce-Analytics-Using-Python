@@ -295,10 +295,6 @@ MNC-Growth-and-Workforce-Analytics/
 └── 📄 README.md
 ```
 
-*Note: This is a suggested repository structure. Include only the files and folders that you actually upload to GitHub.*
-
----
-
 ## 🔮 13. Future Enhancements
 
 The project can be improved further through the following enhancements:
@@ -340,4 +336,5 @@ The findings provide a better understanding of business performance and demonstr
 
 ---
 
-**⭐ If you find this project useful, feel free to explore the notebook and its visualizations!**
+Author:
+Angeline E
